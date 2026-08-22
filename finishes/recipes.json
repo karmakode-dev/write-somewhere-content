@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "note": "Data-only finish recipes. The Write Somewhere engine owns all operations. Unknown ops are ignored.",
+  "allowedOps": [
+    "color-grade",
+    "grain",
+    "vignette",
+    "bloom",
+    "chromatic",
+    "scanlines",
+    "glitch-rows",
+    "blur",
+    "haze",
+    "dream-lens",
+    "drift-blur"
+  ],
+  "presets": [
+    {
+      "id": "bleached",
+      "label": "Bleached",
+      "swatch": ["#f4f1ea", "#c9c6c0"],
+      "ops": ["color-grade", "grain", "vignette"],
+      "grade": { "lift": 38, "contrast": 0.78, "sat": 0.58, "rMul": 0.96, "gMul": 0.97, "bMul": 1.02, "rAdd": 16, "gAdd": 14, "bAdd": 18, "grain": 5, "vignette": 0.08 }
+    },
+    {
+      "id": "polaroid",
+      "label": "Polaroid",
+      "swatch": ["#f3d9b8", "#c48a62"],
+      "ops": ["color-grade", "grain", "vignette"],
+      "grade": { "lift": 22, "contrast": 0.84, "sat": 0.88, "rMul": 1.12, "gMul": 1.02, "bMul": 0.78, "rAdd": 14, "gAdd": 8, "bAdd": 2, "grain": 11, "vignette": 0.34 }
+    },
+    {
+      "id": "disposable",
+      "label": "Disposable",
+      "swatch": ["#e8c4a0", "#6a5a4a"],
+      "ops": ["color-grade", "grain", "vignette"],
+      "grade": { "lift": 12, "contrast": 1.24, "sat": 1.06, "rMul": 1.08, "gMul": 0.98, "bMul": 0.9, "rAdd": 16, "gAdd": -2, "bAdd": -10, "grain": 26, "vignette": 0.2 }
+    },
+    {
+      "id": "old-print",
+      "label": "Old Print",
+      "swatch": ["#e4c48a", "#8a6a3a"],
+      "ops": ["color-grade", "grain", "vignette"],
+      "grade": { "lift": 20, "contrast": 0.76, "sat": 0.66, "rMul": 1.1, "gMul": 0.96, "bMul": 0.7, "rAdd": 22, "gAdd": 10, "bAdd": -6, "grain": 16, "vignette": 0.24 }
+    },
+    {
+      "id": "night",
+      "label": "Night",
+      "swatch": ["#3a4a62", "#12151c"],
+      "ops": ["color-grade", "grain", "vignette"],
+      "grade": { "lift": 4, "contrast": 1.16, "sat": 0.82, "rMul": 0.86, "gMul": 0.92, "bMul": 1.08, "rAdd": -8, "gAdd": -2, "bAdd": 10, "grain": 6, "vignette": 0.38, "shadowCool": 0.7, "crush": 0.18 }
+    },
+    {
+      "id": "bloom-tape",
+      "label": "Bloom Tape",
+      "swatch": ["#f4b48a", "#3a6a88"],
+      "ops": ["blur", "color-grade", "grain", "vignette", "bloom", "chromatic"],
+      "grade": { "lift": 6, "contrast": 1.12, "sat": 1.16, "rMul": 1.04, "gMul": 0.97, "bMul": 1.02, "grain": 26, "vignette": 0.22, "crush": 0.1, "hiR": 22, "hiG": 6, "hiB": 8, "shR": -10, "shG": 2, "shB": 22 }
+    },
+    {
+      "id": "soft-garden",
+      "label": "Soft Garden",
+      "swatch": ["#f3ecd4", "#8aa56a"],
+      "ops": ["blur", "haze", "color-grade", "grain", "vignette"],
+      "grade": { "lift": 30, "contrast": 0.84, "sat": 0.88, "rMul": 1.04, "gMul": 1.02, "bMul": 0.9, "rAdd": 10, "gAdd": 8, "bAdd": 2, "grain": 14, "vignette": 0.16, "hiR": 14, "hiG": 10, "hiB": 4, "muteGreen": 0.7 }
+    },
+    {
+      "id": "dream-lens",
+      "label": "Dream Lens",
+      "swatch": ["#f2d48a", "#4a88b8"],
+      "ops": ["dream-lens", "color-grade", "grain", "vignette", "bloom", "chromatic"],
+      "grade": { "lift": 10, "contrast": 1.05, "sat": 1.1, "rMul": 1.02, "gMul": 1, "bMul": 1.06, "grain": 9, "vignette": 0.24, "hiR": 26, "hiG": 14, "hiB": 2, "shR": -8, "shG": 4, "shB": 20 }
+    },
+    {
+      "id": "drift-blur",
+      "label": "Drift Blur",
+      "swatch": ["#f0c878", "#5a7a48"],
+      "ops": ["drift-blur", "color-grade", "grain", "vignette", "bloom"],
+      "grade": { "lift": 18, "contrast": 0.88, "sat": 1.04, "rMul": 1.08, "gMul": 1.03, "bMul": 0.88, "rAdd": 10, "gAdd": 6, "bAdd": -4, "grain": 12, "vignette": 0.14, "hiR": 16, "hiG": 8, "hiB": -2, "shR": -4, "shG": 8, "shB": -6 }
+    },
+    {
+      "id": "sunset-vhs",
+      "label": "Sunset VHS",
+      "swatch": ["#f08a40", "#6a3a68"],
+      "ops": ["blur", "color-grade", "grain", "vignette", "chromatic", "scanlines", "glitch-rows"],
+      "grade": { "lift": 8, "contrast": 1.1, "sat": 1.08, "rMul": 1.16, "gMul": 0.92, "bMul": 0.72, "rAdd": 18, "gAdd": 2, "bAdd": -8, "grain": 30, "vignette": 0.2, "crush": 0.12, "hiR": 28, "hiG": 10, "hiB": -8, "shR": 10, "shG": -4, "shB": 16 }
+    }
+  ]
+}

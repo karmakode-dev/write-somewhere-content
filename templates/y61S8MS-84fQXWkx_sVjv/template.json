@@ -1,0 +1,131 @@
+{
+  "id": "y61S8MS-84fQXWkx_sVjv",
+  "name": "90s School Classroom",
+  "category": "90s",
+  "moods": [
+    "Nostalgic"
+  ],
+  "thumbnail": "thumbnail.png",
+  "background": "background.png",
+  "canvas": {
+    "width": 1436,
+    "height": 1076
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "Chalkboard",
+      "corners": {
+        "topLeft": {
+          "x": 0.3301955104996379,
+          "y": 0.21405344438193324
+        },
+        "topRight": {
+          "x": 0.8160753077480087,
+          "y": 0.16573438244470226
+        },
+        "bottomRight": {
+          "x": 0.8131788559015206,
+          "y": 0.5097661034377869
+        },
+        "bottomLeft": {
+          "x": 0.3309196234612599,
+          "y": 0.44791770415813115
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": true,
+      "aspectRatio": 2.243935218678948
+    },
+    {
+      "id": "QrUzZW3K5AB_y2e5BqeWG",
+      "name": "table 01",
+      "corners": {
+        "topLeft": {
+          "x": 0.18247646632874728,
+          "y": 0.6295973770421196
+        },
+        "topRight": {
+          "x": 0.3106444605358436,
+          "y": 0.6740509140243721
+        },
+        "bottomRight": {
+          "x": 0.166545981173063,
+          "y": 0.7291346446328154
+        },
+        "bottomLeft": {
+          "x": 0.037653874004344674,
+          "y": 0.6750172952631168
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.8958183747090112
+    },
+    {
+      "id": "mAYPiZX2VhF0A3beLRdeG",
+      "name": "table 02",
+      "corners": {
+        "topLeft": {
+          "x": 0.497465604634323,
+          "y": 0.7687562754213448
+        },
+        "topRight": {
+          "x": 0.7661115133960897,
+          "y": 0.8537978244308715
+        },
+        "bottomRight": {
+          "x": 0.6480811006517017,
+          "y": 0.996822247765075
+        },
+        "bottomLeft": {
+          "x": 0.34178131788559013,
+          "y": 0.8692599242507854
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 1.7961090341795967
+    },
+    {
+      "id": "NzG0zoORY5UnjdG94p8oZ",
+      "name": "table 03",
+      "corners": {
+        "topLeft": {
+          "x": 0.725561187545257,
+          "y": 0.651824145533246
+        },
+        "topRight": {
+          "x": 0.940622737146995,
+          "y": 0.7069078761416893
+        },
+        "bottomRight": {
+          "x": 0.8674873280231715,
+          "y": 0.7764873253313018
+        },
+        "bottomLeft": {
+          "x": 0.6335988414192614,
+          "y": 0.7040087324254555
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 1.3345724907063197
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter",
+    "Architects Daughter"
+  ],
+  "defaultStyle": {
+    "font": "Architects Daughter",
+    "fontSize": 80,
+    "fontWeight": 600,
+    "color": "#ffffff",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 1.2
+  },
+  "sampleText": "Maybe missing out was the point."
+}

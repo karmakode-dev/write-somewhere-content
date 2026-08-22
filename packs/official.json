@@ -1,0 +1,4 @@
+{
+  "id": "official",
+  "note": "Packs are defined in ../manifest.json. This file is a pointer for static hosts."
+}

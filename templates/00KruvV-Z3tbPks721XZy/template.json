@@ -1,0 +1,55 @@
+{
+  "id": "00KruvV-Z3tbPks721XZy",
+  "name": "Public Poster 01",
+  "category": "street",
+  "moods": [
+    "Nostalgic"
+  ],
+  "thumbnail": "thumbnail.png",
+  "background": "background.png",
+  "canvas": {
+    "width": 603,
+    "height": 920
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "public poster",
+      "corners": {
+        "topLeft": {
+          "x": 0.23547979797979798,
+          "y": 0.033930335968379445
+        },
+        "topRight": {
+          "x": 0.9887798036465638,
+          "y": -0.017006372339776817
+        },
+        "bottomRight": {
+          "x": 0.8583450210378681,
+          "y": 1.097140831758034
+        },
+        "bottomLeft": {
+          "x": 0.21906565656565657,
+          "y": 0.9632905138339921
+        }
+      },
+      "materialPreset": "painted-wall",
+      "clippingEnabled": true,
+      "aspectRatio": 0.45739924001287197
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Inter",
+    "fontSize": 50,
+    "fontWeight": 600,
+    "color": "#d93a3a",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 1.2
+  },
+  "sampleText": "Maybe missing out was the point."
+}

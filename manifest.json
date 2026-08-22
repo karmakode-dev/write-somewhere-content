@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "name": "write-somewhere-content",
+  "packs": [
+    {
+      "id": "street",
+      "name": "Street",
+      "templateIds": [
+        "00KruvV-Z3tbPks721XZy",
+        "11JuTRmyZyNTIWA2adl6J",
+        "jPtabLJJ8iujP9TBKxFcR"
+      ]
+    },
+    {
+      "id": "custom",
+      "name": "Custom",
+      "templateIds": [
+        "k5zuNKhORpjkH67H5bH9Z"
+      ]
+    },
+    {
+      "id": "90s",
+      "name": "90s",
+      "templateIds": [
+        "Weqi8faB1fRnEH39WkqWp",
+        "y61S8MS-84fQXWkx_sVjv"
+      ]
+    }
+  ],
+  "templates": [
+    "00KruvV-Z3tbPks721XZy",
+    "11JuTRmyZyNTIWA2adl6J",
+    "jPtabLJJ8iujP9TBKxFcR",
+    "k5zuNKhORpjkH67H5bH9Z",
+    "Weqi8faB1fRnEH39WkqWp",
+    "y61S8MS-84fQXWkx_sVjv"
+  ],
+  "finishes": "finishes/recipes.json"
+}

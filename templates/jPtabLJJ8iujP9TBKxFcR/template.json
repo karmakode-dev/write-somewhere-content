@@ -1,0 +1,56 @@
+{
+  "id": "jPtabLJJ8iujP9TBKxFcR",
+  "name": "STreet wall 01",
+  "category": "street",
+  "moods": [
+    "Grimy"
+  ],
+  "thumbnail": "thumbnail.png",
+  "background": "background.png",
+  "canvas": {
+    "width": 789,
+    "height": 1376
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "wall surface",
+      "corners": {
+        "topLeft": {
+          "x": 0.25392670157068065,
+          "y": 0.23686572051898838
+        },
+        "topRight": {
+          "x": 0.9450261780104712,
+          "y": 0.173221179807025
+        },
+        "bottomRight": {
+          "x": 0.9492147555526015,
+          "y": 0.9117380668166841
+        },
+        "bottomLeft": {
+          "x": 0.25602099034174575,
+          "y": 0.819273230104343
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.6127858716162276
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter",
+    "Architects Daughter"
+  ],
+  "defaultStyle": {
+    "font": "Inter",
+    "fontSize": 56,
+    "fontWeight": 600,
+    "color": "#ffffff",
+    "align": "left",
+    "letterSpacing": 0,
+    "lineHeight": 1.2
+  },
+  "sampleText": "Maybe missing out was the point."
+}

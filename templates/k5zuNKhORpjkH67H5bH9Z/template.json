@@ -1,0 +1,56 @@
+{
+  "id": "k5zuNKhORpjkH67H5bH9Z",
+  "name": "Money Clip 01",
+  "category": "custom",
+  "moods": [
+    "Cocky"
+  ],
+  "thumbnail": "thumbnail.png",
+  "background": "background.png",
+  "canvas": {
+    "width": 1086,
+    "height": 1448
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "metal surface",
+      "corners": {
+        "topLeft": {
+          "x": 0.2876447876447876,
+          "y": 0.22442084942084942
+        },
+        "topRight": {
+          "x": 0.5907335907335908,
+          "y": 0.45897683397683403
+        },
+        "bottomRight": {
+          "x": 0.41505791505791506,
+          "y": 0.5530888030888031
+        },
+        "bottomLeft": {
+          "x": 0.11969111969111969,
+          "y": 0.30550193050193053
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 2.113612616350943
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter",
+    "Special Elite"
+  ],
+  "defaultStyle": {
+    "font": "Inter",
+    "fontSize": 40,
+    "fontWeight": 600,
+    "color": "#ffffff",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 1.2
+  },
+  "sampleText": "Maybe missing out was the point."
+}
