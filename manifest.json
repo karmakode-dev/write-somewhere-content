@@ -65,5 +65,8 @@
     "0X7-E3xSavD72MbP02ZCo",
     "jdsyt6AnVLblxwI5zXHON"
   ],
-  "finishes": "finishes/recipes.json"
+  "finishes": "finishes/recipes.json",
+  "materials": "materials/recipes.json",
+  "fonts": "fonts/catalog.json",
+  "stickers": "stickers/catalog.json"
 }
