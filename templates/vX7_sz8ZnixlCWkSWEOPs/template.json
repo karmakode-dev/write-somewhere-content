@@ -1,76 +1,74 @@
 {
-  "id": "k5zuNKhORpjkH67H5bH9Z",
-  "name": "Money Clip 01",
-  "category": "custom",
-  "moods": [
-    "Cocky"
-  ],
+  "id": "vX7_sz8ZnixlCWkSWEOPs",
+  "name": "Note Pad",
+  "category": "old-tech",
   "thumbnail": "thumbnail.png",
   "background": "background.png",
   "canvas": {
-    "width": 1086,
-    "height": 1448
+    "width": 1560,
+    "height": 1207
   },
   "surfaces": [
     {
       "id": "full-image",
-      "name": "metal surface",
+      "name": "inner",
       "corners": {
         "topLeft": {
-          "x": 0.2876447876447876,
-          "y": 0.22442084942084942
+          "x": 0,
+          "y": 0
         },
         "topRight": {
-          "x": 0.5907335907335908,
-          "y": 0.45897683397683403
+          "x": 1,
+          "y": 0
         },
         "bottomRight": {
-          "x": 0.41505791505791506,
-          "y": 0.5530888030888031
+          "x": 1,
+          "y": 1
         },
         "bottomLeft": {
-          "x": 0.11969111969111969,
-          "y": 0.30550193050193053
+          "x": 0,
+          "y": 1
         }
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 2.113612616350943,
+      "aspectRatio": 1.2924606462303232,
       "contentBounds": {
-        "x": 0.5,
-        "y": 0.5,
-        "width": 0.93,
-        "height": 0.88
+        "x": 0.48,
+        "y": 0.52,
+        "width": 0.89,
+        "height": 0.72
       }
     }
   ],
   "defaultSurfaceId": "full-image",
   "recommendedFonts": [
     "Inter",
-    "Special Elite"
+    "IBM Plex Mono",
+    "Courier Prime"
   ],
   "defaultStyle": {
-    "font": "IBM Plex Mono",
-    "fontSize": 40,
-    "fontWeight": 400,
-    "color": "#ffffff",
-    "align": "center",
-    "letterSpacing": 1,
+    "font": "Courier Prime",
+    "fontSize": 118,
+    "fontWeight": 600,
+    "color": "#000000",
+    "align": "left",
+    "letterSpacing": 0,
     "lineHeight": 1.2,
     "humanize": {
       "enabled": false,
+      "preset": "clean",
       "baselineJitter": 0,
       "rotationJitter": 0,
       "sizeJitter": 0,
       "spacingJitter": 0,
       "opacityJitter": 0,
       "randomCapsChance": 0,
-      "preset": "clean",
       "seed": 0
     },
     "lettering": "clean",
     "materialPreset": "clean",
-    "blendMode": "overlay",
+    "blendMode": "source-over",
     "surfaceInfluence": 0,
     "softness": 0,
     "roughness": 0,

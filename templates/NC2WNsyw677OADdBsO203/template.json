@@ -1,0 +1,103 @@
+{
+  "id": "NC2WNsyw677OADdBsO203",
+  "name": "Polaroid - Flower 03",
+  "category": "old-tech",
+  "moods": [
+    "Nostalgic"
+  ],
+  "thumbnail": "thumbnail.png",
+  "background": "background.png",
+  "canvas": {
+    "width": 1088,
+    "height": 1360
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "inner polaroid",
+      "corners": {
+        "topLeft": {
+          "x": 0,
+          "y": 0
+        },
+        "topRight": {
+          "x": 1,
+          "y": 0
+        },
+        "bottomRight": {
+          "x": 1,
+          "y": 1
+        },
+        "bottomLeft": {
+          "x": 0,
+          "y": 1
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.8,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.43,
+        "width": 0.86,
+        "height": 0.74
+      }
+    },
+    {
+      "id": "7xkYtz6MrtmLKWYAabs2D",
+      "name": "outer",
+      "corners": {
+        "topLeft": {
+          "x": 0.25,
+          "y": 0.25
+        },
+        "topRight": {
+          "x": 0.75,
+          "y": 0.25
+        },
+        "bottomRight": {
+          "x": 0.75,
+          "y": 0.75
+        },
+        "bottomLeft": {
+          "x": 0.25,
+          "y": 0.75
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.8,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 1.31,
+        "width": 1.9,
+        "height": 0.38
+      }
+    }
+  ],
+  "defaultSurfaceId": "7xkYtz6MrtmLKWYAabs2D",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Permanent Marker",
+    "fontSize": 74,
+    "fontWeight": 600,
+    "color": "#444141",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 0.28,
+      "rotationJitter": 1,
+      "sizeJitter": 0.14,
+      "spacingJitter": 0.18,
+      "opacityJitter": 0.1,
+      "randomCapsChance": 0.32,
+      "preset": "custom",
+      "seed": 0
+    },
+    "lettering": "natural"
+  }
+}

@@ -35,7 +35,13 @@
       },
       "materialPreset": "clean",
       "clippingEnabled": true,
-      "aspectRatio": 2.243935218678948
+      "aspectRatio": 2.243935218678948,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.98,
+        "height": 0.93
+      }
     },
     {
       "id": "QrUzZW3K5AB_y2e5BqeWG",
@@ -60,7 +66,13 @@
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 0.8958183747090112
+      "aspectRatio": 0.8958183747090112,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.93,
+        "height": 0.88
+      }
     },
     {
       "id": "mAYPiZX2VhF0A3beLRdeG",
@@ -85,7 +97,13 @@
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 1.7961090341795967
+      "aspectRatio": 1.7961090341795967,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.93,
+        "height": 0.82
+      }
     },
     {
       "id": "NzG0zoORY5UnjdG94p8oZ",
@@ -110,7 +128,13 @@
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 1.3345724907063197
+      "aspectRatio": 1.3345724907063197,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.95,
+        "height": 0.84
+      }
     }
   ],
   "defaultSurfaceId": "full-image",
@@ -120,12 +144,30 @@
   ],
   "defaultStyle": {
     "font": "Architects Daughter",
-    "fontSize": 80,
+    "fontSize": 54,
     "fontWeight": 600,
     "color": "#ffffff",
     "align": "center",
-    "letterSpacing": 0,
-    "lineHeight": 1.2
-  },
-  "sampleText": "Maybe missing out was the point."
+    "letterSpacing": -2,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 0.44,
+      "rotationJitter": 0.46,
+      "sizeJitter": 0.14,
+      "spacingJitter": 0.18,
+      "opacityJitter": 0.63,
+      "randomCapsChance": 0.2,
+      "preset": "custom",
+      "seed": 3708101180
+    },
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 0.67
+  }
 }

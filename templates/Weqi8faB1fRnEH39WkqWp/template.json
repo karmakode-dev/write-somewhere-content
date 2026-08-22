@@ -35,82 +35,13 @@
       },
       "materialPreset": "clean",
       "clippingEnabled": true,
-      "aspectRatio": 2.9353415851721603
-    },
-    {
-      "id": "48SwfhgOQkcRbySUhe6-6",
-      "name": "desk 01",
-      "corners": {
-        "topLeft": {
-          "x": 0.1737871107892831,
-          "y": 0.7158018288062239
-        },
-        "topRight": {
-          "x": 0.41346850108616945,
-          "y": 0.7254813667211154
-        },
-        "bottomRight": {
-          "x": 0.3613323678493845,
-          "y": 0.8058215314147146
-        },
-        "bottomLeft": {
-          "x": 0.08472121650977553,
-          "y": 0.7874304093764207
-        }
-      },
-      "materialPreset": "clean",
-      "clippingEnabled": true,
-      "aspectRatio": 2.8159524724229152
-    },
-    {
-      "id": "4as3vv13JdQXcQpfRcod3",
-      "name": "desk 02",
-      "corners": {
-        "topLeft": {
-          "x": 0.8298334540188269,
-          "y": 0.7593597494232356
-        },
-        "topRight": {
-          "x": 1.062997827661115,
-          "y": 0.755487934257279
-        },
-        "bottomRight": {
-          "x": 1.1412020275162926,
-          "y": 0.8377640065338564
-        },
-        "bottomLeft": {
-          "x": 0.8805213613323678,
-          "y": 0.8377640065338564
-        }
-      },
-      "materialPreset": "clean",
-      "clippingEnabled": false,
-      "aspectRatio": 2.789543894143377
-    },
-    {
-      "id": "m22FQx05p2O_hxbUGSaAf",
-      "name": "desk 03",
-      "corners": {
-        "topLeft": {
-          "x": 0.0012062726176115801,
-          "y": 0.8820254158835246
-        },
-        "topRight": {
-          "x": 0.25331724969843183,
-          "y": 0.9013751507840772
-        },
-        "bottomRight": {
-          "x": 0.15078407720144751,
-          "y": 1.0223109939125312
-        },
-        "bottomLeft": {
-          "x": -0.13510253317249699,
-          "y": 0.9997363031952198
-        }
-      },
-      "materialPreset": "clean",
-      "clippingEnabled": false,
-      "aspectRatio": 1.802264704899819
+      "aspectRatio": 2.9353415851721603,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.97,
+        "height": 0.88
+      }
     }
   ],
   "defaultSurfaceId": "full-image",
@@ -118,13 +49,31 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "Inter",
-    "fontSize": 70,
+    "font": "Architects Daughter",
+    "fontSize": 56,
     "fontWeight": 600,
     "color": "#ffffff",
     "align": "center",
     "letterSpacing": 0,
-    "lineHeight": 1.2
-  },
-  "sampleText": "Maybe missing out was the point."
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 0.41,
+      "rotationJitter": 0.34,
+      "sizeJitter": 0.14,
+      "spacingJitter": 0.18,
+      "opacityJitter": 0.1,
+      "randomCapsChance": 0.27,
+      "preset": "custom",
+      "seed": 0
+    },
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 0.69
+  }
 }

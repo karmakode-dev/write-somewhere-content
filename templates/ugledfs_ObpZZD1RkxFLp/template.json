@@ -1,0 +1,104 @@
+{
+  "id": "ugledfs_ObpZZD1RkxFLp",
+  "name": "Polaroid - Flower 02",
+  "category": "paper",
+  "moods": [
+    "Nostalgic",
+    "Melancholic"
+  ],
+  "thumbnail": "thumbnail.png",
+  "background": "background.png",
+  "canvas": {
+    "width": 1090,
+    "height": 1368
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "polaroid inner surface",
+      "corners": {
+        "topLeft": {
+          "x": 0,
+          "y": 0
+        },
+        "topRight": {
+          "x": 1,
+          "y": 0
+        },
+        "bottomRight": {
+          "x": 1,
+          "y": 1
+        },
+        "bottomLeft": {
+          "x": 0,
+          "y": 1
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.7967836257309941,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.43,
+        "width": 0.87,
+        "height": 0.72
+      }
+    },
+    {
+      "id": "em578BLuFD0hwaCLj100G",
+      "name": "polaroid outer surface",
+      "corners": {
+        "topLeft": {
+          "x": 0.25,
+          "y": 0.25
+        },
+        "topRight": {
+          "x": 0.75,
+          "y": 0.25
+        },
+        "bottomRight": {
+          "x": 0.75,
+          "y": 0.75
+        },
+        "bottomLeft": {
+          "x": 0.25,
+          "y": 0.75
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.7967836257309941,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 1.3,
+        "width": 1.9,
+        "height": 0.37
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Space Mono",
+    "fontSize": 91,
+    "fontWeight": 600,
+    "color": "#ffffff",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 0.3,
+      "rotationJitter": 0.1,
+      "sizeJitter": 0.2,
+      "spacingJitter": 0.68,
+      "opacityJitter": 0.75,
+      "randomCapsChance": 0,
+      "preset": "custom",
+      "seed": 1640741928
+    },
+    "lettering": "natural"
+  }
+}

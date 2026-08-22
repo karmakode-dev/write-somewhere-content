@@ -1,62 +1,61 @@
 {
-  "id": "k5zuNKhORpjkH67H5bH9Z",
-  "name": "Money Clip 01",
-  "category": "custom",
+  "id": "sjExqyZNUwNJ0HSullsAy",
+  "name": "Old Phone",
+  "category": "old-tech",
   "moods": [
-    "Cocky"
+    "Late Night"
   ],
   "thumbnail": "thumbnail.png",
   "background": "background.png",
   "canvas": {
-    "width": 1086,
-    "height": 1448
+    "width": 1223,
+    "height": 1377
   },
   "surfaces": [
     {
       "id": "full-image",
-      "name": "metal surface",
+      "name": "inner phone",
       "corners": {
         "topLeft": {
-          "x": 0.2876447876447876,
-          "y": 0.22442084942084942
+          "x": 0.003727865796831314,
+          "y": 0.23259432522448073
         },
         "topRight": {
-          "x": 0.5907335907335908,
-          "y": 0.45897683397683403
+          "x": 0.9953401677539607,
+          "y": 0.16058113556423223
         },
         "bottomRight": {
-          "x": 0.41505791505791506,
-          "y": 0.5530888030888031
+          "x": 1.037278657968313,
+          "y": 0.705232615983123
         },
         "bottomLeft": {
-          "x": 0.11969111969111969,
-          "y": 0.30550193050193053
+          "x": 0.047530288909599254,
+          "y": 0.7913173484505465
         }
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 2.113612616350943,
+      "aspectRatio": 1.5975729318491185,
       "contentBounds": {
         "x": 0.5,
-        "y": 0.5,
-        "width": 0.93,
-        "height": 0.88
+        "y": 0.56,
+        "width": 0.91,
+        "height": 0.73
       }
     }
   ],
   "defaultSurfaceId": "full-image",
   "recommendedFonts": [
-    "Inter",
-    "Special Elite"
+    "Inter"
   ],
   "defaultStyle": {
     "font": "IBM Plex Mono",
-    "fontSize": 40,
-    "fontWeight": 400,
-    "color": "#ffffff",
-    "align": "center",
-    "letterSpacing": 1,
-    "lineHeight": 1.2,
+    "fontSize": 109,
+    "fontWeight": 700,
+    "color": "#442508",
+    "align": "left",
+    "letterSpacing": 2,
+    "lineHeight": 1.35,
     "humanize": {
       "enabled": false,
       "baselineJitter": 0,
@@ -70,7 +69,7 @@
     },
     "lettering": "clean",
     "materialPreset": "clean",
-    "blendMode": "overlay",
+    "blendMode": "source-over",
     "surfaceInfluence": 0,
     "softness": 0,
     "roughness": 0,
