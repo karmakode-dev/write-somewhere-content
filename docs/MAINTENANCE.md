@@ -6,7 +6,10 @@ Static content packs for the Write Somewhere app: public templates, finish recip
 
 This repo is **read-only public data**. The app engine never writes here from production. There are no accounts and no public upload path.
 
-Host `manifest.json` (and the folders beside it) on Cloudflare Pages, Vercel, or GitHub Pages. Point the app at that manifest with `VITE_CONTENT_MANIFEST_URL`.
+The app loads this repo from a public URL (default: jsDelivr of this GitHub
+repo, with raw.githubusercontent.com as fallback). Override in the engine with
+`VITE_CONTENT_BASE_URL` or `VITE_CONTENT_MANIFEST_URL` if you host
+`manifest.json` on Cloudflare Pages, Vercel, or GitHub Pages.
 
 ## Layout
 
@@ -76,10 +79,13 @@ Studio delete of engine/legacy items may add ids to `manifest.json` `hidden` (`f
 In the engine app:
 
 ```
+VITE_CONTENT_BASE_URL=https://<your-pages-host>
+# or
 VITE_CONTENT_MANIFEST_URL=https://<your-pages-host>/manifest.json
 ```
 
-If that is unset, the app still runs using local/dev templates and personal drafts.
+If those are unset, production/preview still load this repo from the default
+public host. Personal drafts stay in the browser.
 
 Local/dev authoring can also serve this folder from the Vite dev server at `/__official/` when the sibling repo exists. Optional override:
 
