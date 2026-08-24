@@ -68,5 +68,6 @@
   "finishes": "finishes/recipes.json",
   "materials": "materials/recipes.json",
   "fonts": "fonts/catalog.json",
-  "stickers": "stickers/catalog.json"
+  "stickers": "stickers/catalog.json",
+  "licenses": "licenses.json"
 }

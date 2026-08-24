@@ -1,0 +1,450 @@
+{
+  "version": 1,
+  "updated": "2026-08-23",
+  "note": "Official Write Somewhere license metadata. The public /licenses page fetches this file from the content host. Personal/local user files are never listed here.",
+  "fonts": [
+    {
+      "id": "ibm-plex-mono",
+      "family": "IBM Plex Mono",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/IBM+Plex+Mono",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "space-mono",
+      "family": "Space Mono",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Space+Mono",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "vt323",
+      "family": "VT323",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/VT323",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "permanent-marker",
+      "family": "Permanent Marker",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Permanent+Marker",
+      "licenseName": "Apache License 2.0",
+      "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "caveat",
+      "family": "Caveat",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Caveat",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "kalam",
+      "family": "Kalam",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Kalam",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "architects-daughter",
+      "family": "Architects Daughter",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Architects+Daughter",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "anton",
+      "family": "Anton",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Anton",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "oswald",
+      "family": "Oswald",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Oswald",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "bebas-neue",
+      "family": "Bebas Neue",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Bebas+Neue",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "playfair-display",
+      "family": "Playfair Display",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Playfair+Display",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "special-elite",
+      "family": "Special Elite",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Special+Elite",
+      "licenseName": "Apache License 2.0",
+      "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "courier-prime",
+      "family": "Courier Prime",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Courier+Prime",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "inter",
+      "family": "Inter",
+      "provider": "Google Fonts",
+      "sourceUrl": "https://fonts.google.com/specimen/Inter",
+      "licenseName": "SIL Open Font License",
+      "licenseUrl": "https://openfontlicense.org/",
+      "notes": "Official engine fallback and default UI type. Loaded from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    }
+  ],
+  "templates": [
+    {
+      "id": "00KruvV-Z3tbPks721XZy",
+      "name": "Public Poster 01",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "11JuTRmyZyNTIWA2adl6J",
+      "name": "Public Poster 02",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "jPtabLJJ8iujP9TBKxFcR",
+      "name": "Street wall 01",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "k5zuNKhORpjkH67H5bH9Z",
+      "name": "Money Clip 01",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "Weqi8faB1fRnEH39WkqWp",
+      "name": "90s School Classroom",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "y61S8MS-84fQXWkx_sVjv",
+      "name": "90s School Classroom",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "ugledfs_ObpZZD1RkxFLp",
+      "name": "Polaroid - Flower 02",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "L0SGbd6C_xcyvdQNL9aQq",
+      "name": "Polaroid - Flower 01",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "NC2WNsyw677OADdBsO203",
+      "name": "Polaroid - Flower 03",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "vAlkwqtswToo7eJHMwvFe",
+      "name": "phone",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "sjExqyZNUwNJ0HSullsAy",
+      "name": "Old Phone",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "RK0uNE7WV1TgXBCEQpxc6",
+      "name": "Old Phone 01",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "vX7_sz8ZnixlCWkSWEOPs",
+      "name": "Note Pad",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "0X7-E3xSavD72MbP02ZCo",
+      "name": "Old Tv",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "jdsyt6AnVLblxwI5zXHON",
+      "name": "Old Camera",
+      "assetType": "photograph",
+      "source": "Write Somewhere official photography",
+      "licenseName": "Licensed for Write Somewhere",
+      "notes": "Official template photograph for in-app use. Not a standalone stock license.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "smiley",
+      "name": "Smiley",
+      "assetType": "original",
+      "source": "Write Somewhere",
+      "licenseName": "Original Write Somewhere artwork",
+      "notes": "Official in-app graphic. For use inside Write Somewhere.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "globe",
+      "name": "Globe",
+      "assetType": "original",
+      "source": "Write Somewhere",
+      "licenseName": "Original Write Somewhere artwork",
+      "notes": "Official in-app graphic. For use inside Write Somewhere.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "warning",
+      "name": "Warning",
+      "assetType": "original",
+      "source": "Write Somewhere",
+      "licenseName": "Original Write Somewhere artwork",
+      "notes": "Official in-app graphic. For use inside Write Somewhere.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "tape",
+      "name": "Tape",
+      "assetType": "original",
+      "source": "Write Somewhere",
+      "licenseName": "Original Write Somewhere artwork",
+      "notes": "Official in-app graphic. For use inside Write Somewhere.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "assetType": "original",
+      "source": "Write Somewhere",
+      "licenseName": "Original Write Somewhere artwork",
+      "notes": "Official in-app graphic. For use inside Write Somewhere.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "heart-scribble",
+      "name": "Heart",
+      "assetType": "original",
+      "source": "Write Somewhere",
+      "licenseName": "Original Write Somewhere artwork",
+      "notes": "Official in-app graphic. For use inside Write Somewhere.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "barcode",
+      "name": "Barcode",
+      "assetType": "original",
+      "source": "Write Somewhere",
+      "licenseName": "Original Write Somewhere artwork",
+      "notes": "Official in-app graphic. For use inside Write Somewhere.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "arrow-scribble",
+      "name": "Arrow",
+      "assetType": "original",
+      "source": "Write Somewhere",
+      "licenseName": "Original Write Somewhere artwork",
+      "notes": "Official in-app graphic. For use inside Write Somewhere.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    }
+  ],
+  "generated": [
+    {
+      "id": "export-watermark",
+      "name": "write somewhere. export watermark",
+      "assetType": "original",
+      "source": "Write Somewhere",
+      "licenseName": "Original Write Somewhere artwork",
+      "notes": "Small wordmark that may appear on free exports.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    }
+  ],
+  "other": [],
+  "services": [
+    {
+      "id": "google-fonts",
+      "name": "Google Fonts",
+      "provider": "Google",
+      "sourceUrl": "https://fonts.google.com",
+      "licenseName": "Each family keeps its own license (typically SIL OFL or Apache 2.0)",
+      "licenseUrl": "https://fonts.google.com/attribution",
+      "notes": "Official linked fonts may load stylesheets from Google Fonts.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "fontshare",
+      "name": "Fontshare",
+      "provider": "Indian Type Foundry",
+      "sourceUrl": "https://www.fontshare.com",
+      "licenseName": "Fontshare / Indian Type Foundry (typically SIL OFL)",
+      "licenseUrl": "https://www.fontshare.com",
+      "notes": "Official linked fonts may load stylesheets from Fontshare.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "jsdelivr",
+      "name": "jsDelivr",
+      "provider": "jsDelivr",
+      "sourceUrl": "https://www.jsdelivr.com",
+      "notes": "Default public host for official content files.",
+      "dateAdded": "2026-08-22",
+      "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "adsterra",
+      "name": "Adsterra",
+      "provider": "Adsterra",
+      "sourceUrl": "https://www.adsterra.com",
+      "notes": "160×600 display banner in the wide desktop editor.",
+      "dateAdded": "2026-08-23",
+      "dateUpdated": "2026-08-23"
+    }
+  ]
+}
