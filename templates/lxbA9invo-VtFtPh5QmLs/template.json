@@ -1,0 +1,92 @@
+{
+  "id": "lxbA9invo-VtFtPh5QmLs",
+  "name": "Random wall",
+  "category": "old-tech",
+  "moods": [
+    "Grimy",
+    "Nostalgic",
+    "Cocky"
+  ],
+  "thumbnail": "thumbnail.png",
+  "background": "background.png",
+  "canvas": {
+    "width": 853,
+    "height": 1192
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "wall",
+      "corners": {
+        "topLeft": {
+          "x": 0.14756944444444448,
+          "y": 0.011595435620183944
+        },
+        "topRight": {
+          "x": 0.8234953703703705,
+          "y": 0.008282454014417103
+        },
+        "bottomRight": {
+          "x": 0.7459490740740741,
+          "y": 0.8464668002734278
+        },
+        "bottomLeft": {
+          "x": 0.12905092592592593,
+          "y": 0.6601115849490431
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.6468076449677336,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 1,
+        "height": 1
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Kola",
+    "fontSize": 84,
+    "fontWeight": 600,
+    "color": "#242424",
+    "align": "center",
+    "letterSpacing": 2,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 1,
+      "rotationJitter": 0.97,
+      "sizeJitter": 0.43,
+      "spacingJitter": 0.81,
+      "opacityJitter": 0.39,
+      "randomCapsChance": 0.16,
+      "preset": "custom",
+      "seed": 0
+    },
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "overlay",
+    "surfaceInfluence": 0.42,
+    "softness": 0,
+    "roughness": 0.98,
+    "edgeWear": 0.92,
+    "opacity": 1
+  },
+  "contentLicense": {
+    "assetType": "photograph",
+    "source": "Karmakode",
+    "provider": "Karmakode",
+    "creator": "Karmakode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "writesomewhere.com",
+    "attribution": "",
+    "notes": "",
+    "status": "ok"
+  }
+}

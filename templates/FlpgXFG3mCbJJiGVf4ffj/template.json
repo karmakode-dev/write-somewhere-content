@@ -1,0 +1,91 @@
+{
+  "id": "FlpgXFG3mCbJJiGVf4ffj",
+  "name": "Flower Polaroid",
+  "category": "old-tech",
+  "moods": [
+    "Nostalgic",
+    "Grimy"
+  ],
+  "thumbnail": "thumbnail.png",
+  "background": "background.png",
+  "canvas": {
+    "width": 781,
+    "height": 986
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "inner Pol",
+      "corners": {
+        "topLeft": {
+          "x": 0.28108672936259144,
+          "y": 0.22181809703667438
+        },
+        "topRight": {
+          "x": 0.8213166144200627,
+          "y": 0.28389405702828097
+        },
+        "bottomRight": {
+          "x": 0.7335423197492165,
+          "y": 0.7821570958942436
+        },
+        "bottomLeft": {
+          "x": 0.17136886102403345,
+          "y": 0.7192534564360823
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.8750490010170711,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.42,
+        "width": 0.82,
+        "height": 0.66
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Kalam",
+    "fontSize": 49,
+    "fontWeight": 400,
+    "color": "#bf9797",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 0.28,
+      "rotationJitter": 0.22,
+      "sizeJitter": 0.14,
+      "spacingJitter": 0.18,
+      "opacityJitter": 0.1,
+      "randomCapsChance": 0,
+      "preset": "marker",
+      "seed": 0
+    },
+    "lettering": "natural",
+    "materialPreset": "window-marker",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0.22,
+    "softness": 0.08,
+    "roughness": 0.14,
+    "edgeWear": 0.08,
+    "opacity": 1
+  },
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
+}

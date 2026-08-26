@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-23",
+  "updated": "2026-08-26",
   "note": "Official Write Somewhere license metadata. The public /licenses page fetches this file from the content host. Personal/local user files are never listed here.",
   "fonts": [
     {
@@ -156,6 +156,28 @@
       "notes": "Official engine fallback and default UI type. Loaded from Google Fonts.",
       "dateAdded": "2026-08-22",
       "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "font-rf89zAie",
+      "family": "Array",
+      "provider": "fontshare",
+      "sourceUrl": "https://www.fontshare.com/fonts/array",
+      "licenseName": "Fontshare / Indian Type Foundry (typically SIL OFL)",
+      "licenseUrl": "https://www.fontshare.com",
+      "notes": "Fontshare",
+      "dateAdded": "2026-08-24",
+      "dateUpdated": "2026-08-24"
+    },
+    {
+      "id": "font-XmGAN2RQ",
+      "family": "Kola",
+      "provider": "fontshare",
+      "sourceUrl": "https://www.fontshare.com/fonts/kola",
+      "licenseName": "Fontshare / Indian Type Foundry (typically SIL OFL)",
+      "licenseUrl": "https://www.fontshare.com",
+      "notes": "Fontshare",
+      "dateAdded": "2026-08-24",
+      "dateUpdated": "2026-08-24"
     }
   ],
   "templates": [
@@ -308,6 +330,20 @@
       "notes": "Official template photograph for in-app use. Not a standalone stock license.",
       "dateAdded": "2026-08-22",
       "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "lxbA9invo-VtFtPh5QmLs",
+      "name": "Random wall",
+      "assetType": "photograph",
+      "source": "Karmakode",
+      "provider": "Karmakode",
+      "creator": "Karmakode",
+      "licenseName": "Original Write Somewhere",
+      "licenseUrl": "writesomewhere.com",
+      "attribution": "",
+      "notes": "",
+      "dateAdded": "2026-08-26",
+      "dateUpdated": "2026-08-26"
     }
   ],
   "stickers": [
@@ -402,6 +438,48 @@
       "notes": "Small wordmark that may appear on free exports.",
       "dateAdded": "2026-08-22",
       "dateUpdated": "2026-08-23"
+    },
+    {
+      "id": "8i5IQ1I7RQNtOX20UtmJ7",
+      "name": "flower Polaroid",
+      "assetType": "generated",
+      "source": "Karma Kode",
+      "provider": "Karma Kode",
+      "creator": "Karma Kode",
+      "licenseName": "Original Write Somewhere",
+      "licenseUrl": "https://writesomewhere.com/licenses",
+      "attribution": "",
+      "notes": "Official Write Somewhere template asset",
+      "dateAdded": "2026-08-26",
+      "dateUpdated": "2026-08-26"
+    },
+    {
+      "id": "rYsG8xz_OzrYcGlb6AtkR",
+      "name": "Flower Polaroid",
+      "assetType": "generated",
+      "source": "Karma Kode",
+      "provider": "Karma Kode",
+      "creator": "Karma Kode",
+      "licenseName": "Original Write Somewhere",
+      "licenseUrl": "https://writesomewhere.com/licenses",
+      "attribution": "",
+      "notes": "Official Write Somewhere template asset",
+      "dateAdded": "2026-08-26",
+      "dateUpdated": "2026-08-26"
+    },
+    {
+      "id": "FlpgXFG3mCbJJiGVf4ffj",
+      "name": "Flower Polaroid",
+      "assetType": "generated",
+      "source": "Karma Kode",
+      "provider": "Karma Kode",
+      "creator": "Karma Kode",
+      "licenseName": "Original Write Somewhere",
+      "licenseUrl": "https://writesomewhere.com/licenses",
+      "attribution": "",
+      "notes": "Official Write Somewhere template asset",
+      "dateAdded": "2026-08-26",
+      "dateUpdated": "2026-08-26"
     }
   ],
   "other": [],

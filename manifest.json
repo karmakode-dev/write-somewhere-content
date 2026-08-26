@@ -30,7 +30,8 @@
       "id": "paper",
       "name": "Paper",
       "templateIds": [
-        "ugledfs_ObpZZD1RkxFLp"
+        "ugledfs_ObpZZD1RkxFLp",
+        "8i5IQ1I7RQNtOX20UtmJ7"
       ]
     },
     {
@@ -44,7 +45,10 @@
         "RK0uNE7WV1TgXBCEQpxc6",
         "vX7_sz8ZnixlCWkSWEOPs",
         "0X7-E3xSavD72MbP02ZCo",
-        "jdsyt6AnVLblxwI5zXHON"
+        "jdsyt6AnVLblxwI5zXHON",
+        "lxbA9invo-VtFtPh5QmLs",
+        "rYsG8xz_OzrYcGlb6AtkR",
+        "FlpgXFG3mCbJJiGVf4ffj"
       ]
     }
   ],
@@ -63,11 +67,22 @@
     "RK0uNE7WV1TgXBCEQpxc6",
     "vX7_sz8ZnixlCWkSWEOPs",
     "0X7-E3xSavD72MbP02ZCo",
-    "jdsyt6AnVLblxwI5zXHON"
+    "jdsyt6AnVLblxwI5zXHON",
+    "lxbA9invo-VtFtPh5QmLs",
+    "8i5IQ1I7RQNtOX20UtmJ7",
+    "rYsG8xz_OzrYcGlb6AtkR",
+    "FlpgXFG3mCbJJiGVf4ffj"
   ],
   "finishes": "finishes/recipes.json",
   "materials": "materials/recipes.json",
   "fonts": "fonts/catalog.json",
   "stickers": "stickers/catalog.json",
-  "licenses": "licenses.json"
+  "licenses": "licenses.json",
+  "hidden": {
+    "fonts": [],
+    "materials": [],
+    "finishes": [],
+    "stickers": [],
+    "templates": []
+  }
 }
