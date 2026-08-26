@@ -79,14 +79,14 @@
     "opacity": 1
   },
   "contentLicense": {
-    "assetType": "photograph",
-    "source": "Karmakode",
-    "provider": "Karmakode",
-    "creator": "Karmakode",
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
     "licenseName": "Original Write Somewhere",
-    "licenseUrl": "writesomewhere.com",
+    "licenseUrl": "https://writesomewhere.com/licenses",
     "attribution": "",
-    "notes": "",
+    "notes": "Official Write Somewhere template asset",
     "status": "ok"
   }
 }

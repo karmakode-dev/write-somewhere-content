@@ -51,5 +51,16 @@
     "letterSpacing": 0,
     "lineHeight": 1.2
   },
-  "sampleText": "Maybe missing out was the point."
+  "sampleText": "Maybe missing out was the point.",
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
 }

@@ -1,47 +1,43 @@
 {
-  "id": "0X7-E3xSavD72MbP02ZCo",
-  "name": "Old Tv",
+  "id": "WHMqioGOLthFTKx7h-QoW",
+  "name": "Random Wall",
   "category": "old-tech",
   "thumbnail": "thumbnail.png",
   "background": "background.png",
   "canvas": {
-    "width": 1721,
-    "height": 1369
+    "width": 782,
+    "height": 1045
   },
   "surfaces": [
     {
       "id": "full-image",
-      "name": "inner",
+      "name": "Wall",
       "corners": {
         "topLeft": {
-          "x": 0,
-          "y": 0
+          "x": 0.17533185840707968,
+          "y": 0.0198670449252657
         },
         "topRight": {
-          "x": 1,
-          "y": 0
+          "x": 0.8368362831858407,
+          "y": 0.033111741542109496
         },
         "bottomRight": {
-          "x": 1,
-          "y": 1
+          "x": 0.7881637168141593,
+          "y": 1.1117267222763265
         },
         "bottomLeft": {
-          "x": 0,
-          "y": 1
+          "x": 0.20298672566371684,
+          "y": 0.9089173053309058
         }
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 1.2571219868517165,
-      "curvature": {
-        "type": "bulge",
-        "strength": 0.87
-      },
+      "aspectRatio": 0.496710506344294,
       "contentBounds": {
         "x": 0.5,
-        "y": 0.45,
-        "width": 0.75,
-        "height": 0.65
+        "y": 0.5,
+        "width": 0.93,
+        "height": 1
       }
     }
   ],
@@ -50,25 +46,25 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "Inter",
-    "fontSize": 56,
-    "fontWeight": 300,
-    "color": "#ffffff",
+    "font": "Kalam",
+    "fontSize": 72,
+    "fontWeight": 700,
+    "color": "#412a2a",
     "align": "center",
-    "letterSpacing": 0,
-    "lineHeight": 1.2,
+    "letterSpacing": 2,
+    "lineHeight": 1.35,
     "humanize": {
-      "enabled": false,
-      "baselineJitter": 0,
-      "rotationJitter": 0,
-      "sizeJitter": 0,
-      "spacingJitter": 0,
-      "opacityJitter": 0,
-      "randomCapsChance": 0,
-      "preset": "clean",
+      "enabled": true,
+      "baselineJitter": 0.9,
+      "rotationJitter": 0.76,
+      "sizeJitter": 0.32,
+      "spacingJitter": 0.44,
+      "opacityJitter": 1,
+      "randomCapsChance": 0.24,
+      "preset": "custom",
       "seed": 0
     },
-    "lettering": "clean",
+    "lettering": "natural",
     "materialPreset": "clean",
     "blendMode": "source-over",
     "surfaceInfluence": 0,
