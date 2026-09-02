@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-08-26",
-  "note": "Official Write Somewhere license metadata. The public /licenses page fetches this file from the content host. Personal/local user files are never listed here.",
+  "updated": "2026-09-02",
+  "note": "Official Write Somewhere content license metadata (fonts, templates, stickers, generated/original assets). Ad networks, analytics, and runtime hosts are not listed. Personal/local user files are never listed here.",
   "fonts": [
     {
       "id": "ibm-plex-mono",
@@ -692,20 +692,6 @@
       "dateUpdated": "2026-08-26"
     },
     {
-      "id": "lxbA9invo-VtFtPh5QmLs",
-      "name": "Random wall",
-      "assetType": "generated",
-      "source": "Karma Kode",
-      "provider": "Karma Kode",
-      "creator": "Karma Kode",
-      "licenseName": "Original Write Somewhere",
-      "licenseUrl": "https://writesomewhere.com/licenses",
-      "attribution": "",
-      "notes": "Official Write Somewhere template asset",
-      "dateAdded": "2026-08-26",
-      "dateUpdated": "2026-08-26"
-    },
-    {
       "id": "WHMqioGOLthFTKx7h-QoW",
       "name": "Random Wall",
       "assetType": "generated",
@@ -717,50 +703,23 @@
       "attribution": "",
       "notes": "Official Write Somewhere template asset",
       "dateAdded": "2026-08-26",
-      "dateUpdated": "2026-08-26"
+      "dateUpdated": "2026-09-02"
+    },
+    {
+      "id": "lxbA9invo-VtFtPh5QmLs",
+      "name": "Random wall",
+      "assetType": "generated",
+      "source": "Karma Kode",
+      "provider": "Karma Kode",
+      "creator": "Karma Kode",
+      "licenseName": "Original Write Somewhere",
+      "licenseUrl": "https://writesomewhere.com/licenses",
+      "attribution": "",
+      "notes": "Official Write Somewhere template asset",
+      "dateAdded": "2026-08-26",
+      "dateUpdated": "2026-09-02"
     }
   ],
   "other": [],
-  "services": [
-    {
-      "id": "google-fonts",
-      "name": "Google Fonts",
-      "provider": "Google",
-      "sourceUrl": "https://fonts.google.com",
-      "licenseName": "Each family keeps its own license (typically SIL OFL or Apache 2.0)",
-      "licenseUrl": "https://fonts.google.com/attribution",
-      "notes": "Official linked fonts may load stylesheets from Google Fonts.",
-      "dateAdded": "2026-08-22",
-      "dateUpdated": "2026-08-23"
-    },
-    {
-      "id": "fontshare",
-      "name": "Fontshare",
-      "provider": "Indian Type Foundry",
-      "sourceUrl": "https://www.fontshare.com",
-      "licenseName": "Fontshare / Indian Type Foundry (typically SIL OFL)",
-      "licenseUrl": "https://www.fontshare.com",
-      "notes": "Official linked fonts may load stylesheets from Fontshare.",
-      "dateAdded": "2026-08-22",
-      "dateUpdated": "2026-08-23"
-    },
-    {
-      "id": "jsdelivr",
-      "name": "jsDelivr",
-      "provider": "jsDelivr",
-      "sourceUrl": "https://www.jsdelivr.com",
-      "notes": "Default public host for official content files.",
-      "dateAdded": "2026-08-22",
-      "dateUpdated": "2026-08-23"
-    },
-    {
-      "id": "adsterra",
-      "name": "Adsterra",
-      "provider": "Adsterra",
-      "sourceUrl": "https://www.adsterra.com",
-      "notes": "160×600 display banner in the wide desktop editor.",
-      "dateAdded": "2026-08-23",
-      "dateUpdated": "2026-08-23"
-    }
-  ]
+  "services": []
 }
