@@ -1,12 +1,12 @@
 {
-  "id": "X1XWP849I1SOdm3022pKK",
-  "name": "Money",
+  "id": "iU5N80814OsHBW5rgCwuG",
+  "name": "Moneyy",
   "category": "old-tech",
   "thumbnail": "thumbnail.png",
   "background": "background.png",
   "canvas": {
-    "width": 498,
-    "height": 641
+    "width": 602,
+    "height": 510
   },
   "surfaces": [
     {
@@ -14,31 +14,60 @@
       "name": "inner",
       "corners": {
         "topLeft": {
-          "x": 0.21533742331288344,
-          "y": 0.5492714927215282
+          "x": 0.2860113479239278,
+          "y": 0.36326625092537973
         },
         "topRight": {
-          "x": 0.8808589256614264,
-          "y": 0.6766275737122756
+          "x": 0.5982986767485822,
+          "y": 0.8363156937727463
         },
         "bottomRight": {
-          "x": 0.7611044292800997,
-          "y": 1.0342926600499602
+          "x": 0.3517958815922584,
+          "y": 1.0344609586934224
         },
         "bottomLeft": {
-          "x": 0.10932516086320936,
-          "y": 0.9183756441874814
+          "x": 0.08260871872784735,
+          "y": 0.46412394825605097
         }
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 1.4068578679457564,
+      "aspectRatio": 2.0452179486736277,
+      "curvature": {
+        "type": "curved-horizontal",
+        "strength": 0.19
+      },
       "contentBounds": {
         "x": 0.5,
         "y": 0.5,
         "width": 1,
         "height": 1
       }
+    },
+    {
+      "id": "Yk_dqJPecS0lWDacJU7et",
+      "name": "inner 2",
+      "corners": {
+        "topLeft": {
+          "x": 0.47353497164461245,
+          "y": 0.0026776654013596223
+        },
+        "topRight": {
+          "x": 0.6209829867674858,
+          "y": 0.4569836206788584
+        },
+        "bottomRight": {
+          "x": 0.4009452199665495,
+          "y": 0.5158916466460314
+        },
+        "bottomLeft": {
+          "x": 0.2935727845968957,
+          "y": 0.043734753257796424
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 2.020730617344426
     }
   ],
   "defaultSurfaceId": "full-image",
@@ -46,20 +75,20 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "Caveat",
-    "fontSize": 50,
+    "font": "Architects Daughter",
+    "fontSize": 35,
     "fontWeight": 600,
-    "color": "#121212",
+    "color": "#080808",
     "align": "center",
     "letterSpacing": 0,
-    "lineHeight": 0.8,
+    "lineHeight": 1.2,
     "humanize": {
       "enabled": true,
-      "preset": "custom",
-      "baselineJitter": 1,
+      "preset": "marker",
+      "baselineJitter": 0.28,
       "rotationJitter": 0.22,
-      "sizeJitter": 1,
-      "spacingJitter": 1,
+      "sizeJitter": 0.14,
+      "spacingJitter": 0.18,
       "opacityJitter": 0.1,
       "randomCapsChance": 0,
       "seed": 0
