@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-02",
+  "updated": "2026-09-07",
   "note": "Official Write Somewhere content license metadata (fonts, templates, stickers, generated/original assets). Ad networks, analytics, and runtime hosts are not listed. Personal/local user files are never listed here.",
   "fonts": [
     {
@@ -718,6 +718,76 @@
       "notes": "Official Write Somewhere template asset",
       "dateAdded": "2026-08-26",
       "dateUpdated": "2026-09-02"
+    },
+    {
+      "id": "cq-WljFKyLREd60V6cv9D",
+      "name": "old phone",
+      "assetType": "generated",
+      "source": "Karma Kode",
+      "provider": "Karma Kode",
+      "creator": "Karma Kode",
+      "licenseName": "Original Write Somewhere",
+      "licenseUrl": "https://writesomewhere.com/licenses",
+      "attribution": "",
+      "notes": "Official Write Somewhere template asset",
+      "dateAdded": "2026-09-02",
+      "dateUpdated": "2026-09-02"
+    },
+    {
+      "id": "Bzn6F6SJ2v9K4xQsbBv0o",
+      "name": "old phone",
+      "assetType": "generated",
+      "source": "Karma Kode",
+      "provider": "Karma Kode",
+      "creator": "Karma Kode",
+      "licenseName": "Original Write Somewhere",
+      "licenseUrl": "https://writesomewhere.com/licenses",
+      "attribution": "",
+      "notes": "Official Write Somewhere template asset",
+      "dateAdded": "2026-09-02",
+      "dateUpdated": "2026-09-02"
+    },
+    {
+      "id": "Ue3x9Jo0QJ8SpNwO6iu_R",
+      "name": "old phone",
+      "assetType": "generated",
+      "source": "Karma Kode",
+      "provider": "Karma Kode",
+      "creator": "Karma Kode",
+      "licenseName": "Original Write Somewhere",
+      "licenseUrl": "https://writesomewhere.com/licenses",
+      "attribution": "",
+      "notes": "Official Write Somewhere template asset",
+      "dateAdded": "2026-09-02",
+      "dateUpdated": "2026-09-02"
+    },
+    {
+      "id": "UvNVERjlpYHYYujKyZhqR",
+      "name": "money",
+      "assetType": "generated",
+      "source": "Karma Kode",
+      "provider": "Karma Kode",
+      "creator": "Karma Kode",
+      "licenseName": "Original Write Somewhere",
+      "licenseUrl": "https://writesomewhere.com/licenses",
+      "attribution": "",
+      "notes": "Official Write Somewhere template asset",
+      "dateAdded": "2026-09-07",
+      "dateUpdated": "2026-09-07"
+    },
+    {
+      "id": "X1XWP849I1SOdm3022pKK",
+      "name": "Money",
+      "assetType": "generated",
+      "source": "Karma Kode",
+      "provider": "Karma Kode",
+      "creator": "Karma Kode",
+      "licenseName": "Original Write Somewhere",
+      "licenseUrl": "https://writesomewhere.com/licenses",
+      "attribution": "",
+      "notes": "Official Write Somewhere template asset",
+      "dateAdded": "2026-09-07",
+      "dateUpdated": "2026-09-07"
     }
   ],
   "other": [],

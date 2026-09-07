@@ -1,0 +1,89 @@
+{
+  "id": "UvNVERjlpYHYYujKyZhqR",
+  "name": "money",
+  "category": "old-tech",
+  "moods": [
+    "Melancholic",
+    "money"
+  ],
+  "thumbnail": "thumbnail.png",
+  "background": "background.png",
+  "canvas": {
+    "width": 427,
+    "height": 535
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "inner",
+      "corners": {
+        "topLeft": {
+          "x": 0.023627688605916245,
+          "y": 0.4360194383324731
+        },
+        "topRight": {
+          "x": 0.8694511176862694,
+          "y": 0.12362456517096912
+        },
+        "bottomRight": {
+          "x": 1.112887799028565,
+          "y": 0.3362054736466442
+        },
+        "bottomLeft": {
+          "x": 0.19069214595530654,
+          "y": 0.7133651551312649
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 2.63693063255049,
+      "curvature": {
+        "type": "curved-horizontal",
+        "strength": 0
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Permanent Marker",
+    "fontSize": 31,
+    "fontWeight": 600,
+    "color": "#ffffff",
+    "align": "center",
+    "letterSpacing": 5,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 0.94,
+      "rotationJitter": 0.22,
+      "sizeJitter": 0.2,
+      "spacingJitter": 0.18,
+      "opacityJitter": 0.1,
+      "randomCapsChance": 0.25,
+      "preset": "custom",
+      "seed": 0
+    },
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
+  },
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
+}

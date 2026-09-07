@@ -1,0 +1,93 @@
+{
+  "id": "cq-WljFKyLREd60V6cv9D",
+  "name": "old phone",
+  "category": "old-tech",
+  "moods": [
+    "nostalgic",
+    "Melancholic"
+  ],
+  "thumbnail": "thumbnail.png",
+  "background": "background.png",
+  "canvas": {
+    "width": 1042,
+    "height": 832
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "inner",
+      "corners": {
+        "topLeft": {
+          "x": 0.4455576790303048,
+          "y": 0.18134998536758234
+        },
+        "topRight": {
+          "x": 0.7941398981162866,
+          "y": 0.2618447505268088
+        },
+        "bottomRight": {
+          "x": 0.6739130434782609,
+          "y": 0.8508770031448504
+        },
+        "bottomLeft": {
+          "x": 0.3298676748582231,
+          "y": 0.7580713172525415
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.7356373249886202,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.56,
+        "width": 0.94,
+        "height": 0.66
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "IBM Plex Mono",
+    "Courier Prime",
+    "Array"
+  ],
+  "defaultStyle": {
+    "font": "IBM Plex Mono",
+    "fontSize": 56,
+    "fontWeight": 600,
+    "color": "#ffffff",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": false,
+      "baselineJitter": 0,
+      "rotationJitter": 0,
+      "sizeJitter": 0,
+      "spacingJitter": 0,
+      "opacityJitter": 0,
+      "randomCapsChance": 0,
+      "preset": "clean",
+      "seed": 0
+    },
+    "lettering": "clean",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 1,
+    "softness": 0.15,
+    "roughness": 1,
+    "edgeWear": 0,
+    "opacity": 1
+  },
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
+}

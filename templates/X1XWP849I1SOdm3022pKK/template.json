@@ -1,0 +1,87 @@
+{
+  "id": "X1XWP849I1SOdm3022pKK",
+  "name": "Money",
+  "category": "old-tech",
+  "thumbnail": "thumbnail.png",
+  "background": "background.png",
+  "canvas": {
+    "width": 498,
+    "height": 641
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "inner",
+      "corners": {
+        "topLeft": {
+          "x": 0.21533742331288344,
+          "y": 0.5492714927215282
+        },
+        "topRight": {
+          "x": 0.8808589256614264,
+          "y": 0.6766275737122756
+        },
+        "bottomRight": {
+          "x": 0.7611044292800997,
+          "y": 1.0342926600499602
+        },
+        "bottomLeft": {
+          "x": 0.10932516086320936,
+          "y": 0.9183756441874814
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 1.4068578679457564,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 1,
+        "height": 1
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Caveat",
+    "fontSize": 79,
+    "fontWeight": 600,
+    "color": "#121212",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 0.8,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 1,
+      "rotationJitter": 0.22,
+      "sizeJitter": 1,
+      "spacingJitter": 1,
+      "opacityJitter": 0.1,
+      "randomCapsChance": 0,
+      "preset": "custom",
+      "seed": 0
+    },
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "overlay",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
+  },
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
+}
