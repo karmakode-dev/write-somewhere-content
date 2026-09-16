@@ -6,7 +6,7 @@
     "Nostalgic",
     "Melancholic"
   ],
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 1090,
@@ -90,17 +90,25 @@
     "lineHeight": 1.2,
     "humanize": {
       "enabled": true,
+      "preset": "custom",
       "baselineJitter": 0.3,
       "rotationJitter": 0.1,
       "sizeJitter": 0.2,
       "spacingJitter": 0.68,
       "opacityJitter": 0.75,
       "randomCapsChance": 0,
-      "preset": "custom",
       "seed": 1640741928
     },
-    "lettering": "natural"
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
   },
+  "sampleText": "future me better appreciate this.",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

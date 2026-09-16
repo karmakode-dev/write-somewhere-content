@@ -5,7 +5,7 @@
   "moods": [
     "Nostalgic"
   ],
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 1088,
@@ -89,17 +89,25 @@
     "lineHeight": 1.2,
     "humanize": {
       "enabled": true,
+      "preset": "custom",
       "baselineJitter": 0.28,
       "rotationJitter": 1,
       "sizeJitter": 0.14,
       "spacingJitter": 0.18,
       "opacityJitter": 0.1,
       "randomCapsChance": 0.32,
-      "preset": "custom",
       "seed": 0
     },
-    "lettering": "natural"
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
   },
+  "sampleText": "write it on the wall.",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

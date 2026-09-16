@@ -6,7 +6,7 @@
     "Grimy",
     "Minimal"
   ],
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 1038,
@@ -52,9 +52,28 @@
     "color": "#ff0000",
     "align": "left",
     "letterSpacing": 0,
-    "lineHeight": 1.2
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": false,
+      "baselineJitter": 0,
+      "rotationJitter": 0,
+      "sizeJitter": 0,
+      "spacingJitter": 0,
+      "opacityJitter": 0,
+      "randomCapsChance": 0,
+      "preset": "clean",
+      "seed": 0
+    },
+    "lettering": "clean",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
   },
-  "sampleText": "Maybe missing out was the point.",
+  "sampleText": "out of office.",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

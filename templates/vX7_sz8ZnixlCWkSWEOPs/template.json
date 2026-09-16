@@ -2,7 +2,7 @@
   "id": "vX7_sz8ZnixlCWkSWEOPs",
   "name": "Note Pad",
   "category": "old-tech",
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 1560,
@@ -75,6 +75,7 @@
     "edgeWear": 0,
     "opacity": 1
   },
+  "sampleText": "i owe myself a comeback.",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",
