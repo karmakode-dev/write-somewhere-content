@@ -2,7 +2,7 @@
   "id": "0X7-E3xSavD72MbP02ZCo",
   "name": "Old Tv",
   "category": "old-tech",
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 1721,
@@ -50,7 +50,7 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "Inter",
+    "font": "Courier Prime",
     "fontSize": 56,
     "fontWeight": 300,
     "color": "#ffffff",
@@ -77,6 +77,7 @@
     "edgeWear": 0,
     "opacity": 1
   },
+  "sampleText": "one more ugly day closer",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

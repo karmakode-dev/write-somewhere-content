@@ -5,7 +5,7 @@
   "moods": [
     "Late Night"
   ],
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 1223,
@@ -49,8 +49,8 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "IBM Plex Mono",
-    "fontSize": 109,
+    "font": "Space Mono",
+    "fontSize": 120,
     "fontWeight": 700,
     "color": "#442508",
     "align": "left",
@@ -76,6 +76,7 @@
     "edgeWear": 0,
     "opacity": 1
   },
+  "sampleText": "keep it p",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

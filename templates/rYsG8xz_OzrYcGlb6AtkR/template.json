@@ -6,7 +6,7 @@
     "Nostalgic",
     "Grimy"
   ],
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 778,
@@ -60,13 +60,13 @@
     "lineHeight": 1.2,
     "humanize": {
       "enabled": true,
+      "preset": "custom",
       "baselineJitter": 1,
       "rotationJitter": 0.74,
       "sizeJitter": 0.05,
       "spacingJitter": 1,
       "opacityJitter": 1,
       "randomCapsChance": 0,
-      "preset": "custom",
       "seed": 0
     },
     "lettering": "natural",
@@ -78,6 +78,7 @@
     "edgeWear": 0.1,
     "opacity": 1
   },
+  "sampleText": "proof over promises.",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

@@ -2,7 +2,7 @@
   "id": "jdsyt6AnVLblxwI5zXHON",
   "name": "Old Camera",
   "category": "old-tech",
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 1736,
@@ -56,13 +56,13 @@
     "lineHeight": 1.2,
     "humanize": {
       "enabled": false,
+      "preset": "clean",
       "baselineJitter": 0,
       "rotationJitter": 0,
       "sizeJitter": 0,
       "spacingJitter": 0,
       "opacityJitter": 0,
       "randomCapsChance": 0,
-      "preset": "clean",
       "seed": 0
     },
     "lettering": "clean",
@@ -74,6 +74,7 @@
     "edgeWear": 0,
     "opacity": 1
   },
+  "sampleText": "i can’t stay here.",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

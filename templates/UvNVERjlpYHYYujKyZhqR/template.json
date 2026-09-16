@@ -6,7 +6,7 @@
     "Melancholic",
     "money"
   ],
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 427,
@@ -75,6 +75,7 @@
     "edgeWear": 0,
     "opacity": 1
   },
+  "sampleText": "why not money",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

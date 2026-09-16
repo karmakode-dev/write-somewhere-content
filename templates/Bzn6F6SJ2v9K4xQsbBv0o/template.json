@@ -7,7 +7,7 @@
     "nostalgic",
     "soft"
   ],
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 830,
@@ -48,12 +48,11 @@
   ],
   "defaultSurfaceId": "full-image",
   "recommendedFonts": [
-    "Kola",
-    "IBM Plex Mono"
+    "Kola"
   ],
   "defaultStyle": {
-    "font": "IBM Plex Mono",
-    "fontSize": 56,
+    "font": "Courier Prime",
+    "fontSize": 54,
     "fontWeight": 600,
     "color": "#ffffff",
     "align": "center",
@@ -79,6 +78,7 @@
     "edgeWear": 0,
     "opacity": 1
   },
+  "sampleText": "i owe myself a comeback.",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

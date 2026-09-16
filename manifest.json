@@ -6,9 +6,8 @@
       "id": "street",
       "name": "Street",
       "templateIds": [
-        "00KruvV-Z3tbPks721XZy",
         "11JuTRmyZyNTIWA2adl6J",
-        "jPtabLJJ8iujP9TBKxFcR"
+        "WHMqioGOLthFTKx7h-QoW"
       ]
     },
     {
@@ -16,14 +15,6 @@
       "name": "Custom",
       "templateIds": [
         "k5zuNKhORpjkH67H5bH9Z"
-      ]
-    },
-    {
-      "id": "90s",
-      "name": "90s",
-      "templateIds": [
-        "Weqi8faB1fRnEH39WkqWp",
-        "y61S8MS-84fQXWkx_sVjv"
       ]
     },
     {
@@ -54,18 +45,13 @@
         "Bzn6F6SJ2v9K4xQsbBv0o",
         "Ue3x9Jo0QJ8SpNwO6iu_R",
         "UvNVERjlpYHYYujKyZhqR",
-        "X1XWP849I1SOdm3022pKK",
-        "iU5N80814OsHBW5rgCwuG"
+        "X1XWP849I1SOdm3022pKK"
       ]
     }
   ],
   "templates": [
-    "00KruvV-Z3tbPks721XZy",
     "11JuTRmyZyNTIWA2adl6J",
-    "jPtabLJJ8iujP9TBKxFcR",
     "k5zuNKhORpjkH67H5bH9Z",
-    "Weqi8faB1fRnEH39WkqWp",
-    "y61S8MS-84fQXWkx_sVjv",
     "ugledfs_ObpZZD1RkxFLp",
     "L0SGbd6C_xcyvdQNL9aQq",
     "NC2WNsyw677OADdBsO203",
@@ -84,8 +70,7 @@
     "Bzn6F6SJ2v9K4xQsbBv0o",
     "Ue3x9Jo0QJ8SpNwO6iu_R",
     "UvNVERjlpYHYYujKyZhqR",
-    "X1XWP849I1SOdm3022pKK",
-    "iU5N80814OsHBW5rgCwuG"
+    "X1XWP849I1SOdm3022pKK"
   ],
   "finishes": "finishes/recipes.json",
   "materials": "materials/recipes.json",
@@ -97,6 +82,12 @@
     "materials": [],
     "finishes": [],
     "stickers": [],
-    "templates": []
+    "templates": [
+      "y61S8MS-84fQXWkx_sVjv",
+      "jPtabLJJ8iujP9TBKxFcR",
+      "iU5N80814OsHBW5rgCwuG",
+      "00KruvV-Z3tbPks721XZy",
+      "Weqi8faB1fRnEH39WkqWp"
+    ]
   }
 }

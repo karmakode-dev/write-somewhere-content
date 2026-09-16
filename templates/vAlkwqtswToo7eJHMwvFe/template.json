@@ -2,7 +2,7 @@
   "id": "vAlkwqtswToo7eJHMwvFe",
   "name": "phone",
   "category": "old-tech",
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 1254,
@@ -79,6 +79,7 @@
     "edgeWear": 0,
     "opacity": 1
   },
+  "sampleText": "still here",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

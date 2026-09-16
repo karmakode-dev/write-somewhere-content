@@ -7,7 +7,7 @@
     "Nostalgic",
     "Cocky"
   ],
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 853,
@@ -60,13 +60,13 @@
     "lineHeight": 1.2,
     "humanize": {
       "enabled": true,
+      "preset": "custom",
       "baselineJitter": 1,
       "rotationJitter": 0.97,
       "sizeJitter": 0.43,
       "spacingJitter": 0.81,
       "opacityJitter": 0.39,
       "randomCapsChance": 0.16,
-      "preset": "custom",
       "seed": 0
     },
     "lettering": "natural",
@@ -78,6 +78,7 @@
     "edgeWear": 0.92,
     "opacity": 1
   },
+  "sampleText": "the life i want keeps calling.",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

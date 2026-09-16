@@ -2,7 +2,7 @@
   "id": "X1XWP849I1SOdm3022pKK",
   "name": "Money",
   "category": "old-tech",
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 498,
@@ -73,6 +73,7 @@
     "edgeWear": 0,
     "opacity": 1
   },
+  "sampleText": "soft life needs hard work",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

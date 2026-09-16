@@ -1,8 +1,8 @@
 {
   "id": "WHMqioGOLthFTKx7h-QoW",
   "name": "Random Wall",
-  "category": "old-tech",
-  "thumbnail": "thumbnail.png",
+  "category": "street",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 782,
@@ -46,22 +46,22 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "Kalam",
+    "font": "Caveat",
     "fontSize": 72,
     "fontWeight": 700,
-    "color": "#412a2a",
+    "color": "#0a0a0a",
     "align": "center",
-    "letterSpacing": 2,
-    "lineHeight": 1.35,
+    "letterSpacing": 4,
+    "lineHeight": 1.65,
     "humanize": {
       "enabled": true,
+      "preset": "custom",
       "baselineJitter": 0.9,
-      "rotationJitter": 0.76,
+      "rotationJitter": 0.95,
       "sizeJitter": 0.32,
       "spacingJitter": 0.44,
       "opacityJitter": 1,
-      "randomCapsChance": 0.24,
-      "preset": "custom",
+      "randomCapsChance": 0.06,
       "seed": 0
     },
     "lettering": "natural",
@@ -73,6 +73,7 @@
     "edgeWear": 0,
     "opacity": 1
   },
+  "sampleText": "wasn’t built for average.",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

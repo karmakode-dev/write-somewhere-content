@@ -6,7 +6,7 @@
     "Nostalgic",
     "Melancholic"
   ],
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 1025,
@@ -90,17 +90,25 @@
     "lineHeight": 1.25,
     "humanize": {
       "enabled": true,
+      "preset": "custom",
       "baselineJitter": 0.63,
       "rotationJitter": 0.73,
       "sizeJitter": 0.68,
       "spacingJitter": 0.81,
       "opacityJitter": 0.34,
       "randomCapsChance": 0.28,
-      "preset": "custom",
       "seed": 0
     },
-    "lettering": "natural"
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
   },
+  "sampleText": "too focused to explain",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

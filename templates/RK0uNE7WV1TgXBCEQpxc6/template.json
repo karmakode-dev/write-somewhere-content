@@ -5,7 +5,7 @@
   "moods": [
     "Grimy"
   ],
-  "thumbnail": "thumbnail.png",
+  "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
     "width": 1116,
@@ -55,8 +55,8 @@
     "Space Mono"
   ],
   "defaultStyle": {
-    "font": "Space Mono",
-    "fontSize": 68,
+    "font": "Special Elite",
+    "fontSize": 153,
     "fontWeight": 600,
     "color": "#3b2002",
     "align": "center",
@@ -82,6 +82,7 @@
     "edgeWear": 0,
     "opacity": 1
   },
+  "sampleText": "IM DELUSIONAL",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",
