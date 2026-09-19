@@ -74,6 +74,8 @@
     "opacity": 1
   },
   "sampleText": "soft life needs hard work",
+  "defaultFinish": "soft-garden",
+  "thumbnailFinish": "soft-garden",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

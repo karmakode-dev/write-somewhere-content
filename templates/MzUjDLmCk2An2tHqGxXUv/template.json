@@ -1,0 +1,90 @@
+{
+  "id": "MzUjDLmCk2An2tHqGxXUv",
+  "name": "Tiles",
+  "category": "old-tech",
+  "thumbnail": "thumbnail.jpg",
+  "background": "background.png",
+  "canvas": {
+    "width": 908,
+    "height": 1176
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "Full Image",
+      "corners": {
+        "topLeft": {
+          "x": 0.31086422013647763,
+          "y": 0.09741916228794396
+        },
+        "topRight": {
+          "x": 0.8861729751398533,
+          "y": 0.06882253845322489
+        },
+        "bottomRight": {
+          "x": 0.8851851851851851,
+          "y": 0.8466507213025787
+        },
+        "bottomLeft": {
+          "x": 0.31530863444010415,
+          "y": 0.8245359872343999
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.5885116365331828,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.49,
+        "width": 0.96,
+        "height": 0.33
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Permanent Marker",
+    "fontSize": 56,
+    "fontWeight": 600,
+    "color": "#0f0f0f",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 0.74,
+      "rotationJitter": 0.74,
+      "sizeJitter": 0.24,
+      "spacingJitter": 0.42,
+      "opacityJitter": 0.39,
+      "randomCapsChance": 0,
+      "wordSizeJitter": 0.86,
+      "lineWobble": 0.2,
+      "preset": "custom",
+      "seed": 0
+    },
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
+  },
+  "sampleText": "im finna make a lotta money",
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
+}

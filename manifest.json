@@ -14,7 +14,9 @@
       "id": "custom",
       "name": "Custom",
       "templateIds": [
-        "k5zuNKhORpjkH67H5bH9Z"
+        "k5zuNKhORpjkH67H5bH9Z",
+        "Y7ZJihdMne1mu13PG-Kj2",
+        "EeMW2qyf3ufJFYKyXxPpX"
       ]
     },
     {
@@ -22,7 +24,10 @@
       "name": "Paper",
       "templateIds": [
         "ugledfs_ObpZZD1RkxFLp",
-        "8i5IQ1I7RQNtOX20UtmJ7"
+        "8i5IQ1I7RQNtOX20UtmJ7",
+        "ZSpX4slVYXIgWz6nC4zzj",
+        "fSfEzNt4XHQ2lkJ14GB1Q",
+        "rYsG8xz_OzrYcGlb6AtkR"
       ]
     },
     {
@@ -45,7 +50,10 @@
         "Bzn6F6SJ2v9K4xQsbBv0o",
         "Ue3x9Jo0QJ8SpNwO6iu_R",
         "UvNVERjlpYHYYujKyZhqR",
-        "X1XWP849I1SOdm3022pKK"
+        "X1XWP849I1SOdm3022pKK",
+        "L0nnl5IvA4HpRiWV5d4Qf",
+        "MzUjDLmCk2An2tHqGxXUv",
+        "g1bBdg3v7xYPEtZI4JgiA"
       ]
     }
   ],
@@ -70,7 +78,14 @@
     "Bzn6F6SJ2v9K4xQsbBv0o",
     "Ue3x9Jo0QJ8SpNwO6iu_R",
     "UvNVERjlpYHYYujKyZhqR",
-    "X1XWP849I1SOdm3022pKK"
+    "X1XWP849I1SOdm3022pKK",
+    "ZSpX4slVYXIgWz6nC4zzj",
+    "fSfEzNt4XHQ2lkJ14GB1Q",
+    "Y7ZJihdMne1mu13PG-Kj2",
+    "EeMW2qyf3ufJFYKyXxPpX",
+    "L0nnl5IvA4HpRiWV5d4Qf",
+    "MzUjDLmCk2An2tHqGxXUv",
+    "g1bBdg3v7xYPEtZI4JgiA"
   ],
   "finishes": "finishes/recipes.json",
   "materials": "materials/recipes.json",

@@ -50,8 +50,8 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "Kalam",
-    "fontSize": 49,
+    "font": "rayando",
+    "fontSize": 58,
     "fontWeight": 400,
     "color": "#f6efef",
     "align": "center",
@@ -60,12 +60,14 @@
     "humanize": {
       "enabled": true,
       "preset": "custom",
-      "baselineJitter": 0.83,
+      "baselineJitter": 0.69,
       "rotationJitter": 1,
-      "sizeJitter": 1,
+      "sizeJitter": 0.79,
       "spacingJitter": 0.48,
-      "opacityJitter": 0.1,
+      "opacityJitter": 0.04,
       "randomCapsChance": 0.15,
+      "wordSizeJitter": 0,
+      "lineWobble": 0,
       "seed": 0
     },
     "lettering": "natural",
@@ -78,6 +80,8 @@
     "opacity": 1
   },
   "sampleText": "quietly getting dangerous.",
+  "defaultFinish": "dream-lens",
+  "thumbnailFinish": "dream-lens",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

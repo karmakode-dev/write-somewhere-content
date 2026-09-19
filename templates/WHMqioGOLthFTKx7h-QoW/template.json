@@ -46,22 +46,24 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "Caveat",
+    "font": "Strange Marks",
     "fontSize": 72,
     "fontWeight": 700,
     "color": "#0a0a0a",
     "align": "center",
-    "letterSpacing": 4,
+    "letterSpacing": 2,
     "lineHeight": 1.65,
     "humanize": {
       "enabled": true,
       "preset": "custom",
-      "baselineJitter": 0.9,
-      "rotationJitter": 0.95,
+      "baselineJitter": 0.51,
+      "rotationJitter": 1,
       "sizeJitter": 0.32,
-      "spacingJitter": 0.44,
-      "opacityJitter": 1,
+      "spacingJitter": 1,
+      "opacityJitter": 0.45,
       "randomCapsChance": 0.06,
+      "wordSizeJitter": 0,
+      "lineWobble": 0.48,
       "seed": 0
     },
     "lettering": "natural",
@@ -74,6 +76,8 @@
     "opacity": 1
   },
   "sampleText": "wasn’t built for average.",
+  "defaultFinish": "disposable",
+  "thumbnailFinish": "disposable",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

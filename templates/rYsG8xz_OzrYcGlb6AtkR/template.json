@@ -1,7 +1,7 @@
 {
   "id": "rYsG8xz_OzrYcGlb6AtkR",
   "name": "Flower Polaroid",
-  "category": "old-tech",
+  "category": "paper",
   "moods": [
     "Nostalgic",
     "Grimy"
@@ -52,7 +52,7 @@
   ],
   "defaultStyle": {
     "font": "Kalam",
-    "fontSize": 65,
+    "fontSize": 85,
     "fontWeight": 600,
     "color": "#ffffff",
     "align": "center",
@@ -61,12 +61,14 @@
     "humanize": {
       "enabled": true,
       "preset": "custom",
-      "baselineJitter": 1,
-      "rotationJitter": 0.74,
-      "sizeJitter": 0.05,
+      "baselineJitter": 0.78,
+      "rotationJitter": 0.91,
+      "sizeJitter": 0.87,
       "spacingJitter": 1,
-      "opacityJitter": 1,
+      "opacityJitter": 0.1,
       "randomCapsChance": 0,
+      "wordSizeJitter": 0.72,
+      "lineWobble": 0.86,
       "seed": 0
     },
     "lettering": "natural",
@@ -79,6 +81,8 @@
     "opacity": 1
   },
   "sampleText": "proof over promises.",
+  "defaultFinish": "dream-lens",
+  "thumbnailFinish": "dream-lens",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

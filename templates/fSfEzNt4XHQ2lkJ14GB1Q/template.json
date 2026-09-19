@@ -1,0 +1,88 @@
+{
+  "id": "fSfEzNt4XHQ2lkJ14GB1Q",
+  "name": "Piece of Paper",
+  "category": "paper",
+  "thumbnail": "thumbnail.jpg",
+  "background": "background.png",
+  "canvas": {
+    "width": 930,
+    "height": 1198
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "Full Image",
+      "corners": {
+        "topLeft": {
+          "x": 0.10245398773006135,
+          "y": 0.0535309331112849
+        },
+        "topRight": {
+          "x": 0.941717791411043,
+          "y": 0.05276893853191341
+        },
+        "bottomRight": {
+          "x": 0.9466257668711656,
+          "y": 0.949650235054334
+        },
+        "bottomLeft": {
+          "x": 0.08773006134969324,
+          "y": 0.9511742242130768
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.7345753492126064,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.83,
+        "height": 0.85
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Architects Daughter",
+    "fontSize": 91,
+    "fontWeight": 600,
+    "color": "#050505",
+    "align": "center",
+    "letterSpacing": 4,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 0.72,
+      "rotationJitter": 0.71,
+      "sizeJitter": 0.14,
+      "spacingJitter": 0.77,
+      "opacityJitter": 0.51,
+      "randomCapsChance": 0,
+      "preset": "custom",
+      "seed": 0
+    },
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
+  },
+  "sampleText": "what if it all goes right???",
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
+}

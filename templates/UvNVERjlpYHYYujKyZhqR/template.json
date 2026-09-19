@@ -76,6 +76,8 @@
     "opacity": 1
   },
   "sampleText": "why not money",
+  "defaultFinish": "night",
+  "thumbnailFinish": "night",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

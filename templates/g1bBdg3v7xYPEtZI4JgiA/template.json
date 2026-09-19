@@ -1,0 +1,97 @@
+{
+  "id": "g1bBdg3v7xYPEtZI4JgiA",
+  "name": "Book",
+  "category": "old-tech",
+  "thumbnail": "thumbnail.jpg",
+  "background": "background.png",
+  "canvas": {
+    "width": 965,
+    "height": 1202
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "Full Image",
+      "corners": {
+        "topLeft": {
+          "x": 0.10237250096150283,
+          "y": -0.0005714068165620126
+        },
+        "topRight": {
+          "x": 1.0428232213356317,
+          "y": -0.0028570268169781825
+        },
+        "bottomRight": {
+          "x": 1.0447213205719899,
+          "y": 1.0172972592917606
+        },
+        "bottomLeft": {
+          "x": 0.056820888677667186,
+          "y": 1.0127259466326093
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.802828618968386,
+      "curvature": {
+        "type": "page-bend",
+        "strength": 0.11,
+        "x": true,
+        "y": false,
+        "axis": "horizontal",
+        "strengthX": 0.11,
+        "origin": {
+          "x": 0.11,
+          "y": 0.37
+        },
+        "seam": 0.21
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Space Mono",
+    "fontSize": 56,
+    "fontWeight": 600,
+    "color": "#0d0d0d",
+    "align": "left",
+    "letterSpacing": 0,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": false,
+      "baselineJitter": 0,
+      "rotationJitter": 0,
+      "sizeJitter": 0,
+      "spacingJitter": 0,
+      "opacityJitter": 0,
+      "randomCapsChance": 0,
+      "wordSizeJitter": 0,
+      "lineWobble": 0,
+      "preset": "clean",
+      "seed": 0
+    },
+    "lettering": "clean",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
+  },
+  "sampleText": "Do aliens believe in me though??",
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "Y7ZJihdMne1mu13PG-Kj2",
+  "name": "Bathroom stall",
+  "category": "custom",
+  "thumbnail": "thumbnail.jpg",
+  "background": "background.png",
+  "canvas": {
+    "width": 1012,
+    "height": 1258
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "Full Image",
+      "corners": {
+        "topLeft": {
+          "x": 0.2522963234230324,
+          "y": 0.24121626782458008
+        },
+        "topRight": {
+          "x": 1.0108149775752313,
+          "y": 0.16494234684477674
+        },
+        "bottomRight": {
+          "x": 1.0191111472800927,
+          "y": 1.0325582343602795
+        },
+        "bottomLeft": {
+          "x": 0.18118521231192128,
+          "y": 1.037325354421517
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 0.773817517302297,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.91,
+        "height": 0.9
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Permanent Marker",
+    "fontSize": 56,
+    "fontWeight": 600,
+    "color": "#100f0f",
+    "align": "center",
+    "letterSpacing": 5,
+    "lineHeight": 1.45,
+    "humanize": {
+      "enabled": true,
+      "preset": "custom",
+      "baselineJitter": 0.64,
+      "rotationJitter": 0.67,
+      "sizeJitter": 0.14,
+      "spacingJitter": 0.63,
+      "opacityJitter": 0.43,
+      "randomCapsChance": 0,
+      "seed": 0
+    },
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
+  },
+  "sampleText": "life is bettter when nobody knows what you're doing",
+  "defaultFinish": "bloom-tape",
+  "thumbnailFinish": "bloom-tape",
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
+}

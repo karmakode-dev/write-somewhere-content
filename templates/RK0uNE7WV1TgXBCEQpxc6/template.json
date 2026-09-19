@@ -93,5 +93,6 @@
     "attribution": "",
     "notes": "Official Write Somewhere template asset",
     "status": "ok"
-  }
+  },
+  "defaultFinish": "disposable"
 }

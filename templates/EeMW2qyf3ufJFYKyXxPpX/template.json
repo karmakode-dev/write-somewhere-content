@@ -1,0 +1,96 @@
+{
+  "id": "EeMW2qyf3ufJFYKyXxPpX",
+  "name": "Car bumper",
+  "category": "custom",
+  "moods": [
+    "cinematic"
+  ],
+  "thumbnail": "thumbnail.jpg",
+  "background": "background.png",
+  "canvas": {
+    "width": 720,
+    "height": 963
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "Full Image",
+      "corners": {
+        "topLeft": {
+          "x": 0.5132484387440287,
+          "y": 0.3971664980058337
+        },
+        "topRight": {
+          "x": 0.8036942986166402,
+          "y": 0.3765938390585005
+        },
+        "bottomRight": {
+          "x": 0.7945223085439889,
+          "y": 0.5785106488853504
+        },
+        "bottomLeft": {
+          "x": 0.5030573559414809,
+          "y": 0.5998452172562355
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 1.0796150533096978,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 1,
+        "height": 1
+      },
+      "curvature": {
+        "type": "flat",
+        "strength": 0
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Oswald",
+    "fontSize": 37,
+    "fontWeight": 600,
+    "color": "#ffffff",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": false,
+      "baselineJitter": 0,
+      "rotationJitter": 0,
+      "sizeJitter": 0,
+      "spacingJitter": 0,
+      "opacityJitter": 0,
+      "randomCapsChance": 0,
+      "preset": "clean",
+      "seed": 0
+    },
+    "lettering": "clean",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
+  },
+  "sampleText": "you was never the problem",
+  "defaultFinish": "dream-lens",
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
+}
