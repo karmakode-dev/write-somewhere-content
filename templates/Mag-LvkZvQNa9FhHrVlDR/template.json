@@ -1,0 +1,129 @@
+{
+  "id": "Mag-LvkZvQNa9FhHrVlDR",
+  "name": "Metal",
+  "category": "old-tech",
+  "moods": [
+    "Grimy",
+    "Melancholic",
+    "Nostalgic",
+    "nostalgic"
+  ],
+  "thumbnail": "thumbnail.jpg",
+  "background": "background.png",
+  "canvas": {
+    "width": 722,
+    "height": 877
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "Full Image",
+      "corners": {
+        "topLeft": {
+          "x": 0.1785714285714286,
+          "y": 0.1416274155766985
+        },
+        "topRight": {
+          "x": 0.8244466800804829,
+          "y": 0.14411210707804412
+        },
+        "bottomRight": {
+          "x": 0.8304828973843059,
+          "y": 0.4745760767570073
+        },
+        "bottomLeft": {
+          "x": 0.17152917505030182,
+          "y": 0.4729196157561102
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 1.623075644109862,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.88,
+        "height": 0.74
+      }
+    },
+    {
+      "id": "kUDIXY3RMl0exsh2BT2Fo",
+      "name": "Surface 2",
+      "corners": {
+        "topLeft": {
+          "x": 0.17354124748490946,
+          "y": 0.47623253775790436
+        },
+        "topRight": {
+          "x": 0.829476861167002,
+          "y": 0.4778889987588014
+        },
+        "bottomRight": {
+          "x": 0.835513078470825,
+          "y": 0.8282305004485293
+        },
+        "bottomLeft": {
+          "x": 0.17152917505030182,
+          "y": 0.8307151919498749
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 1.5416416959521846,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.86,
+        "height": 0.77
+      }
+    }
+  ],
+  "defaultSurfaceId": "full-image",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Strange Marks",
+    "fontSize": 51,
+    "fontWeight": 700,
+    "color": "#ff0a0a",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 0.53,
+      "rotationJitter": 1,
+      "sizeJitter": 0.37,
+      "spacingJitter": 0.24,
+      "opacityJitter": 0.14,
+      "randomCapsChance": 0,
+      "wordSizeJitter": 0.37,
+      "lineWobble": 0.2,
+      "preset": "custom",
+      "seed": 0
+    },
+    "lettering": "natural",
+    "materialPreset": "marker-rough",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0.2,
+    "softness": 0.06,
+    "roughness": 0.16,
+    "edgeWear": 0.1,
+    "opacity": 1
+  },
+  "sampleText": "things have been weird lately.",
+  "defaultFinish": "bloom-tape",
+  "thumbnailFinish": "bloom-tape",
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
+}
