@@ -1,56 +1,70 @@
 {
-  "id": "11JuTRmyZyNTIWA2adl6J",
-  "name": "Public Poster 02",
-  "category": "street",
+  "id": "hORikF5qDS7kptGL4hoR-",
+  "name": "Lighter",
+  "category": "old-tech",
   "moods": [
-    "Grimy",
-    "Minimal"
+    "Cocky",
+    "discipline",
+    "eerie"
   ],
   "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
-    "width": 1038,
-    "height": 1389
+    "width": 978,
+    "height": 1167
   },
   "surfaces": [
     {
       "id": "full-image",
-      "name": "public poster",
+      "name": "Full Image",
       "corners": {
         "topLeft": {
-          "x": 0.23460591133004924,
-          "y": 0.07684675866324783
+          "x": 0.1734189723320158,
+          "y": 0.36188361766767935
         },
         "topRight": {
-          "x": 0.8294334975369458,
-          "y": 0.09985477023907052
+          "x": 0.7030632411067195,
+          "y": 0.6434406657386428
         },
         "bottomRight": {
-          "x": 0.7801724137931034,
-          "y": 0.925382225579589
+          "x": 0.5884387351778657,
+          "y": 0.7925002794232705
         },
         "bottomLeft": {
-          "x": 0.2567733990147783,
-          "y": 0.936426071135984
+          "x": 0.06472332015810277,
+          "y": 0.5068026865277341
         }
       },
       "materialPreset": "clean",
-      "clippingEnabled": true,
-      "aspectRatio": 0.49606101173380035
+      "clippingEnabled": false,
+      "aspectRatio": 3.010968308039487,
+      "curvature": {
+        "type": "custom",
+        "strength": 0.05,
+        "x": false,
+        "y": true,
+        "axis": "vertical",
+        "strengthY": 0.05
+      },
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.93,
+        "height": 0.81
+      }
     }
   ],
   "defaultSurfaceId": "full-image",
   "recommendedFonts": [
-    "IBM Plex Mono",
-    "Bebas Neue",
-    "VT323"
+    "Inter",
+    "Lovely Picnic"
   ],
   "defaultStyle": {
-    "font": "IBM Plex Mono",
-    "fontSize": 90,
+    "font": "Lovely Picnic",
+    "fontSize": 56,
     "fontWeight": 600,
-    "color": "#ff0000",
-    "align": "left",
+    "color": "#050505",
+    "align": "center",
     "letterSpacing": 0,
     "lineHeight": 1.2,
     "humanize": {
@@ -61,6 +75,8 @@
       "spacingJitter": 0,
       "opacityJitter": 0,
       "randomCapsChance": 0,
+      "wordSizeJitter": 0,
+      "lineWobble": 0,
       "preset": "clean",
       "seed": 0
     },
@@ -73,7 +89,9 @@
     "edgeWear": 0,
     "opacity": 1
   },
-  "sampleText": "out of office.",
+  "sampleText": "you get what you f*kn give",
+  "defaultFinish": "night",
+  "thumbnailFinish": "night",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",
@@ -84,6 +102,5 @@
     "attribution": "",
     "notes": "Official Write Somewhere template asset",
     "status": "ok"
-  },
-  "defaultFinish": "night"
+  }
 }

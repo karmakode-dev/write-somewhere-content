@@ -6,7 +6,6 @@
       "id": "street",
       "name": "Street",
       "templateIds": [
-        "11JuTRmyZyNTIWA2adl6J",
         "WHMqioGOLthFTKx7h-QoW"
       ]
     },
@@ -16,7 +15,8 @@
       "templateIds": [
         "k5zuNKhORpjkH67H5bH9Z",
         "Y7ZJihdMne1mu13PG-Kj2",
-        "EeMW2qyf3ufJFYKyXxPpX"
+        "EeMW2qyf3ufJFYKyXxPpX",
+        "ThS8RGizccvjnMDJ7xp4r"
       ]
     },
     {
@@ -27,7 +27,8 @@
         "8i5IQ1I7RQNtOX20UtmJ7",
         "ZSpX4slVYXIgWz6nC4zzj",
         "fSfEzNt4XHQ2lkJ14GB1Q",
-        "rYsG8xz_OzrYcGlb6AtkR"
+        "rYsG8xz_OzrYcGlb6AtkR",
+        "3EnUUXcUcGtkGRh3TsocY"
       ]
     },
     {
@@ -53,12 +54,12 @@
         "X1XWP849I1SOdm3022pKK",
         "L0nnl5IvA4HpRiWV5d4Qf",
         "MzUjDLmCk2An2tHqGxXUv",
-        "g1bBdg3v7xYPEtZI4JgiA"
+        "g1bBdg3v7xYPEtZI4JgiA",
+        "hORikF5qDS7kptGL4hoR-"
       ]
     }
   ],
   "templates": [
-    "11JuTRmyZyNTIWA2adl6J",
     "k5zuNKhORpjkH67H5bH9Z",
     "ugledfs_ObpZZD1RkxFLp",
     "L0SGbd6C_xcyvdQNL9aQq",
@@ -85,7 +86,10 @@
     "EeMW2qyf3ufJFYKyXxPpX",
     "L0nnl5IvA4HpRiWV5d4Qf",
     "MzUjDLmCk2An2tHqGxXUv",
-    "g1bBdg3v7xYPEtZI4JgiA"
+    "g1bBdg3v7xYPEtZI4JgiA",
+    "3EnUUXcUcGtkGRh3TsocY",
+    "ThS8RGizccvjnMDJ7xp4r",
+    "hORikF5qDS7kptGL4hoR-"
   ],
   "finishes": "finishes/recipes.json",
   "materials": "materials/recipes.json",
@@ -102,7 +106,8 @@
       "jPtabLJJ8iujP9TBKxFcR",
       "iU5N80814OsHBW5rgCwuG",
       "00KruvV-Z3tbPks721XZy",
-      "Weqi8faB1fRnEH39WkqWp"
+      "Weqi8faB1fRnEH39WkqWp",
+      "11JuTRmyZyNTIWA2adl6J"
     ]
   }
 }

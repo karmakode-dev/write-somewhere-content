@@ -1,68 +1,69 @@
 {
-  "id": "jdsyt6AnVLblxwI5zXHON",
-  "name": "Old Camera",
-  "category": "old-tech",
+  "id": "3EnUUXcUcGtkGRh3TsocY",
+  "name": "Napkin",
+  "category": "paper",
   "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
-    "width": 1736,
-    "height": 1327
+    "width": 1165,
+    "height": 1213
   },
   "surfaces": [
     {
       "id": "full-image",
-      "name": "inner",
+      "name": "Full Image",
       "corners": {
         "topLeft": {
-          "x": 0,
-          "y": 0
+          "x": 0.1642241379310345,
+          "y": 0.24424695113284245
         },
         "topRight": {
-          "x": 1,
-          "y": 0
+          "x": 0.7780172413793103,
+          "y": 0.17966640134178583
         },
         "bottomRight": {
-          "x": 1,
-          "y": 1
+          "x": 0.9142241379310344,
+          "y": 0.7526117917957756
         },
         "bottomLeft": {
-          "x": 0,
-          "y": 1
+          "x": 0.21594827586206897,
+          "y": 0.8304396338516644
         }
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 1.308214016578749,
+      "aspectRatio": 1.0783960670203239,
       "contentBounds": {
-        "x": 0.41,
-        "y": 0.51,
-        "width": 0.63,
-        "height": 0.53
+        "x": 0.55,
+        "y": 0.5,
+        "width": 0.71,
+        "height": 0.66
       }
     }
   ],
   "defaultSurfaceId": "full-image",
   "recommendedFonts": [
-    "Inter",
-    "IBM Plex Mono"
+    "Inter"
   ],
   "defaultStyle": {
-    "font": "IBM Plex Mono",
-    "fontSize": 85,
-    "fontWeight": 700,
-    "color": "#121212",
-    "align": "left",
-    "letterSpacing": 0,
-    "lineHeight": 1.2,
+    "font": "Strange Marks",
+    "fontSize": 86,
+    "fontWeight": 600,
+    "color": "#141414",
+    "align": "center",
+    "letterSpacing": 2,
+    "lineHeight": 1.45,
     "humanize": {
       "enabled": false,
-      "preset": "clean",
       "baselineJitter": 0,
       "rotationJitter": 0,
       "sizeJitter": 0,
       "spacingJitter": 0,
       "opacityJitter": 0,
       "randomCapsChance": 0,
+      "wordSizeJitter": 0,
+      "lineWobble": 0,
+      "preset": "clean",
       "seed": 0
     },
     "lettering": "clean",
@@ -74,7 +75,7 @@
     "edgeWear": 0,
     "opacity": 1
   },
-  "sampleText": "i can’t stay here.",
+  "sampleText": "especially for you cause you ate",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",
@@ -85,7 +86,5 @@
     "attribution": "",
     "notes": "Official Write Somewhere template asset",
     "status": "ok"
-  },
-  "moods": [],
-  "description": ""
+  }
 }
