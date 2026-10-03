@@ -1,43 +1,55 @@
 {
-  "id": "X1XWP849I1SOdm3022pKK",
-  "name": "Money",
+  "id": "yEjra_oEi_MiSQfpFAFMU",
+  "name": "Old TV",
   "category": "old-tech",
   "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
-    "width": 498,
-    "height": 641
+    "width": 837,
+    "height": 1116
   },
   "surfaces": [
     {
       "id": "full-image",
-      "name": "inner",
+      "name": "Full Image",
       "corners": {
         "topLeft": {
-          "x": 0.21533742331288344,
-          "y": 0.5492714927215282
+          "x": 0.011054633987601255,
+          "y": 0.07033037139621139
         },
         "topRight": {
-          "x": 0.8808589256614264,
-          "y": 0.6766275737122756
+          "x": 0.7002541761386197,
+          "y": 0.11226175640256462
         },
         "bottomRight": {
-          "x": 0.7611044292800997,
-          "y": 1.0342926600499602
+          "x": 0.6951715840166375,
+          "y": 0.7496188404902417
         },
         "bottomLeft": {
-          "x": 0.10932516086320936,
-          "y": 0.9183756441874814
+          "x": 0,
+          "y": 1
         }
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 1.4068578679457564,
+      "aspectRatio": 0.7000176716324127,
+      "curvature": {
+        "type": "bulge",
+        "strength": 0.93,
+        "x": true,
+        "y": true,
+        "axis": "both",
+        "strengthY": 1.15,
+        "origin": {
+          "x": 0,
+          "y": 0.5
+        }
+      },
       "contentBounds": {
-        "x": 0.5,
-        "y": 0.5,
-        "width": 1,
-        "height": 1
+        "x": 0.51,
+        "y": 0.46,
+        "width": 0.81,
+        "height": 0.65
       }
     }
   ],
@@ -46,38 +58,36 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "Caveat",
-    "fontSize": 50,
+    "font": "Playfair Display",
+    "fontSize": 56,
     "fontWeight": 600,
-    "color": "#121212",
+    "color": "#2849af",
     "align": "center",
     "letterSpacing": 0,
-    "lineHeight": 0.8,
+    "lineHeight": 1.2,
     "humanize": {
-      "enabled": true,
-      "preset": "custom",
-      "baselineJitter": 0.55,
-      "rotationJitter": 0.3,
-      "sizeJitter": 0.73,
-      "spacingJitter": 0.61,
-      "opacityJitter": 0.1,
+      "enabled": false,
+      "baselineJitter": 0,
+      "rotationJitter": 0,
+      "sizeJitter": 0,
+      "spacingJitter": 0,
+      "opacityJitter": 0,
       "randomCapsChance": 0,
-      "wordSizeJitter": 0.39,
+      "wordSizeJitter": 0,
       "lineWobble": 0,
+      "preset": "clean",
       "seed": 0
     },
-    "lettering": "natural",
+    "lettering": "clean",
     "materialPreset": "clean",
-    "blendMode": "darken",
+    "blendMode": "source-over",
     "surfaceInfluence": 0,
     "softness": 0,
     "roughness": 0,
     "edgeWear": 0,
     "opacity": 1
   },
-  "sampleText": "soft life needs hard work",
-  "defaultFinish": "soft-garden",
-  "thumbnailFinish": "soft-garden",
+  "sampleText": "TAKE THE E OFFO EMOTION",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

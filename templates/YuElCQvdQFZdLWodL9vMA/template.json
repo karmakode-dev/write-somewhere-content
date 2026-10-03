@@ -1,43 +1,55 @@
 {
-  "id": "X1XWP849I1SOdm3022pKK",
-  "name": "Money",
+  "id": "YuElCQvdQFZdLWodL9vMA",
+  "name": "Old Tv",
   "category": "old-tech",
   "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
-    "width": 498,
-    "height": 641
+    "width": 880,
+    "height": 700
   },
   "surfaces": [
     {
       "id": "full-image",
-      "name": "inner",
+      "name": "Full Image",
       "corners": {
         "topLeft": {
-          "x": 0.21533742331288344,
-          "y": 0.5492714927215282
+          "x": 0.21644612476370506,
+          "y": 0.07283824289163769
         },
         "topRight": {
-          "x": 0.8808589256614264,
-          "y": 0.6766275737122756
+          "x": 0.79187155941709,
+          "y": 0.27436132140008945
         },
         "bottomRight": {
-          "x": 0.7611044292800997,
-          "y": 1.0342926600499602
+          "x": 0.8100189035916824,
+          "y": 0.8656224682689709
         },
         "bottomLeft": {
-          "x": 0.10932516086320936,
-          "y": 0.9183756441874814
+          "x": 0.1756143840364337,
+          "y": 0.7601080350286085
         }
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 1.4068578679457564,
+      "aspectRatio": 1.214335523724481,
+      "curvature": {
+        "type": "bulge",
+        "strength": 1.34,
+        "x": true,
+        "y": true,
+        "axis": "both",
+        "strengthY": 0.85,
+        "origin": {
+          "x": 0.03,
+          "y": 0.74
+        }
+      },
       "contentBounds": {
-        "x": 0.5,
-        "y": 0.5,
-        "width": 1,
-        "height": 1
+        "x": 0.44,
+        "y": 0.56,
+        "width": 0.71,
+        "height": 0.67
       }
     }
   ],
@@ -46,38 +58,36 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "Caveat",
-    "fontSize": 50,
+    "font": "Kola",
+    "fontSize": 56,
     "fontWeight": 600,
-    "color": "#121212",
+    "color": "#3c43af",
     "align": "center",
     "letterSpacing": 0,
-    "lineHeight": 0.8,
+    "lineHeight": 1.2,
     "humanize": {
-      "enabled": true,
-      "preset": "custom",
-      "baselineJitter": 0.55,
-      "rotationJitter": 0.3,
-      "sizeJitter": 0.73,
-      "spacingJitter": 0.61,
-      "opacityJitter": 0.1,
+      "enabled": false,
+      "baselineJitter": 0,
+      "rotationJitter": 0,
+      "sizeJitter": 0,
+      "spacingJitter": 0,
+      "opacityJitter": 0,
       "randomCapsChance": 0,
-      "wordSizeJitter": 0.39,
+      "wordSizeJitter": 0,
       "lineWobble": 0,
+      "preset": "clean",
       "seed": 0
     },
-    "lettering": "natural",
+    "lettering": "clean",
     "materialPreset": "clean",
-    "blendMode": "darken",
+    "blendMode": "source-over",
     "surfaceInfluence": 0,
     "softness": 0,
     "roughness": 0,
     "edgeWear": 0,
     "opacity": 1
   },
-  "sampleText": "soft life needs hard work",
-  "defaultFinish": "soft-garden",
-  "thumbnailFinish": "soft-garden",
+  "sampleText": "lock in or clock in daily",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

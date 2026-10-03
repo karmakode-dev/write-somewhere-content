@@ -1,43 +1,48 @@
 {
-  "id": "X1XWP849I1SOdm3022pKK",
-  "name": "Money",
+  "id": "sxKEpFNxz7uoUAVEdajmy",
+  "name": "Metal Tin",
   "category": "old-tech",
+  "moods": [
+    "cinematic",
+    "Melancholic",
+    "Nostalgic"
+  ],
   "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
-    "width": 498,
-    "height": 641
+    "width": 1175,
+    "height": 1177
   },
   "surfaces": [
     {
       "id": "full-image",
-      "name": "inner",
+      "name": "Full Image",
       "corners": {
         "topLeft": {
-          "x": 0.21533742331288344,
-          "y": 0.5492714927215282
+          "x": 0.23756218905472634,
+          "y": 0.0347666932964743
         },
         "topRight": {
-          "x": 0.8808589256614264,
-          "y": 0.6766275737122756
+          "x": 0.853648424543947,
+          "y": 0.08277784118208167
         },
         "bottomRight": {
-          "x": 0.7611044292800997,
-          "y": 1.0342926600499602
+          "x": 0.8097014925373134,
+          "y": 0.4792837004442528
         },
         "bottomLeft": {
-          "x": 0.10932516086320936,
-          "y": 0.9183756441874814
+          "x": 0.19195688225538973,
+          "y": 0.4114058706749459
         }
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 1.4068578679457564,
+      "aspectRatio": 1.5897716688881018,
       "contentBounds": {
         "x": 0.5,
         "y": 0.5,
-        "width": 1,
-        "height": 1
+        "width": 0.89,
+        "height": 0.77
       }
     }
   ],
@@ -46,38 +51,36 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "Caveat",
-    "fontSize": 50,
+    "font": "Kalam",
+    "fontSize": 56,
     "fontWeight": 600,
-    "color": "#121212",
+    "color": "#1c1c1c",
     "align": "center",
     "letterSpacing": 0,
-    "lineHeight": 0.8,
+    "lineHeight": 1.2,
     "humanize": {
       "enabled": true,
-      "preset": "custom",
-      "baselineJitter": 0.55,
+      "baselineJitter": 0.4,
       "rotationJitter": 0.3,
-      "sizeJitter": 0.73,
-      "spacingJitter": 0.61,
-      "opacityJitter": 0.1,
+      "sizeJitter": 0.24,
+      "spacingJitter": 0.24,
+      "opacityJitter": 0.14,
       "randomCapsChance": 0,
-      "wordSizeJitter": 0.39,
-      "lineWobble": 0,
+      "wordSizeJitter": 0.18,
+      "lineWobble": 0.2,
+      "preset": "marker",
       "seed": 0
     },
     "lettering": "natural",
     "materialPreset": "clean",
-    "blendMode": "darken",
+    "blendMode": "source-over",
     "surfaceInfluence": 0,
     "softness": 0,
     "roughness": 0,
     "edgeWear": 0,
     "opacity": 1
   },
-  "sampleText": "soft life needs hard work",
-  "defaultFinish": "soft-garden",
-  "thumbnailFinish": "soft-garden",
+  "sampleText": "im delusional, im realest i personally know though",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

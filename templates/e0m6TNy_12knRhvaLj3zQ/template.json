@@ -1,43 +1,43 @@
 {
-  "id": "X1XWP849I1SOdm3022pKK",
-  "name": "Money",
+  "id": "e0m6TNy_12knRhvaLj3zQ",
+  "name": "Metal Tin",
   "category": "old-tech",
   "thumbnail": "thumbnail.jpg",
   "background": "background.png",
   "canvas": {
-    "width": 498,
-    "height": 641
+    "width": 877,
+    "height": 1106
   },
   "surfaces": [
     {
       "id": "full-image",
-      "name": "inner",
+      "name": "Full Image",
       "corners": {
         "topLeft": {
-          "x": 0.21533742331288344,
-          "y": 0.5492714927215282
+          "x": 0.30096153112558216,
+          "y": 0.16487972075392962
         },
         "topRight": {
-          "x": 0.8808589256614264,
-          "y": 0.6766275737122756
+          "x": 0.7182692747849685,
+          "y": 0.16487972075392962
         },
         "bottomRight": {
-          "x": 0.7611044292800997,
-          "y": 1.0342926600499602
+          "x": 0.7298077069796048,
+          "y": 0.2998333014770648
         },
         "bottomLeft": {
-          "x": 0.10932516086320936,
-          "y": 0.9183756441874814
+          "x": 0.3000000073359563,
+          "y": 0.30669535929278846
         }
       },
       "materialPreset": "clean",
       "clippingEnabled": false,
-      "aspectRatio": 1.4068578679457564,
+      "aspectRatio": 2.4245150337850516,
       "contentBounds": {
         "x": 0.5,
         "y": 0.5,
-        "width": 1,
-        "height": 1
+        "width": 0.9,
+        "height": 0.83
       }
     }
   ],
@@ -46,38 +46,36 @@
     "Inter"
   ],
   "defaultStyle": {
-    "font": "Caveat",
-    "fontSize": 50,
+    "font": "Inter",
+    "fontSize": 56,
     "fontWeight": 600,
-    "color": "#121212",
+    "color": "#7e5025",
     "align": "center",
     "letterSpacing": 0,
-    "lineHeight": 0.8,
+    "lineHeight": 1.2,
     "humanize": {
-      "enabled": true,
-      "preset": "custom",
-      "baselineJitter": 0.55,
-      "rotationJitter": 0.3,
-      "sizeJitter": 0.73,
-      "spacingJitter": 0.61,
-      "opacityJitter": 0.1,
+      "enabled": false,
+      "baselineJitter": 0,
+      "rotationJitter": 0,
+      "sizeJitter": 0,
+      "spacingJitter": 0,
+      "opacityJitter": 0,
       "randomCapsChance": 0,
-      "wordSizeJitter": 0.39,
+      "wordSizeJitter": 0,
       "lineWobble": 0,
+      "preset": "clean",
       "seed": 0
     },
-    "lettering": "natural",
+    "lettering": "clean",
     "materialPreset": "clean",
-    "blendMode": "darken",
+    "blendMode": "source-over",
     "surfaceInfluence": 0,
     "softness": 0,
     "roughness": 0,
     "edgeWear": 0,
-    "opacity": 1
+    "opacity": 0.51
   },
-  "sampleText": "soft life needs hard work",
-  "defaultFinish": "soft-garden",
-  "thumbnailFinish": "soft-garden",
+  "sampleText": "get at a life",
   "contentLicense": {
     "assetType": "generated",
     "source": "Karma Kode",

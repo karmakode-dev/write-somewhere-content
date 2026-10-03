@@ -1,0 +1,121 @@
+{
+  "id": "qUx1FTAjpQ6CjE-myunbM",
+  "name": "Metal tin",
+  "category": "old-tech",
+  "thumbnail": "thumbnail.jpg",
+  "background": "background.png",
+  "canvas": {
+    "width": 903,
+    "height": 1060
+  },
+  "surfaces": [
+    {
+      "id": "full-image",
+      "name": "Full Image",
+      "corners": {
+        "topLeft": {
+          "x": 0.0641399416909621,
+          "y": 0.1564690026954178
+        },
+        "topRight": {
+          "x": 0.7677356656948493,
+          "y": 0.04222179437812861
+        },
+        "bottomRight": {
+          "x": 0.8406219630709426,
+          "y": 0.41311128224874855
+        },
+        "bottomLeft": {
+          "x": 0.15257531584062195,
+          "y": 0.5406045437042741
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 1.5765623058662417,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.86,
+        "height": 0.79
+      }
+    },
+    {
+      "id": "csGiNPPdl2d5zPii7esWh",
+      "name": "Surface 2",
+      "corners": {
+        "topLeft": {
+          "x": 0.14382896015549076,
+          "y": 0.5298421255294571
+        },
+        "topRight": {
+          "x": 0.847424684159378,
+          "y": 0.4097997689641894
+        },
+        "bottomRight": {
+          "x": 0.9786200194363459,
+          "y": 0.7914516750096265
+        },
+        "bottomLeft": {
+          "x": 0.24198250728862974,
+          "y": 0.9355025028879476
+        }
+      },
+      "materialPreset": "clean",
+      "clippingEnabled": false,
+      "aspectRatio": 1.5459894706787978,
+      "contentBounds": {
+        "x": 0.5,
+        "y": 0.5,
+        "width": 0.86,
+        "height": 0.71
+      }
+    }
+  ],
+  "defaultSurfaceId": "csGiNPPdl2d5zPii7esWh",
+  "recommendedFonts": [
+    "Inter"
+  ],
+  "defaultStyle": {
+    "font": "Caveat",
+    "fontSize": 70,
+    "fontWeight": 600,
+    "color": "#3e3c3c",
+    "align": "center",
+    "letterSpacing": 0,
+    "lineHeight": 1.2,
+    "humanize": {
+      "enabled": true,
+      "baselineJitter": 0.4,
+      "rotationJitter": 0.3,
+      "sizeJitter": 0.24,
+      "spacingJitter": 0.24,
+      "opacityJitter": 0.14,
+      "randomCapsChance": 0,
+      "wordSizeJitter": 0.18,
+      "lineWobble": 0.2,
+      "preset": "marker",
+      "seed": 0
+    },
+    "lettering": "natural",
+    "materialPreset": "clean",
+    "blendMode": "source-over",
+    "surfaceInfluence": 0,
+    "softness": 0,
+    "roughness": 0,
+    "edgeWear": 0,
+    "opacity": 1
+  },
+  "sampleText": "go and get yo bread up",
+  "contentLicense": {
+    "assetType": "generated",
+    "source": "Karma Kode",
+    "provider": "Karma Kode",
+    "creator": "Karma Kode",
+    "licenseName": "Original Write Somewhere",
+    "licenseUrl": "https://writesomewhere.com/licenses",
+    "attribution": "",
+    "notes": "Official Write Somewhere template asset",
+    "status": "ok"
+  }
+}
